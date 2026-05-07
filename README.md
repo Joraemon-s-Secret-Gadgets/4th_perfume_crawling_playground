@@ -1,108 +1,66 @@
-# SKN26 Project Template Repository
+# SKN26 Project: Perfume Crawling & Database
 
-SKN26 4차 프로젝트부터 최종 프로젝트까지 공통으로 사용할 수 있는 템플릿 저장소입니다.
-
-아직 기술 스택은 확정하지 않았으며, 프로젝트를 시작할 때 필요한 기본 디렉터리, 문서, 협업 규칙을 먼저 정리하는 것을 목적으로 합니다.
-
-## Purpose
-
-- 4차 프로젝트부터 최종 프로젝트까지 반복해서 사용할 기본 저장소 구조를 제공합니다.
-- 프로젝트별 기술 스택이 달라져도 공통으로 필요한 문서와 협업 규칙을 유지합니다.
-- Git flow, commit convention, naming, code style, API contract, development process를 wiki로 관리합니다.
-- 팀원이 새 프로젝트에 합류했을 때 저장소 사용 기준을 빠르게 확인할 수 있게 합니다.
-
-## Project Scope
-
-이 템플릿은 다음 프로젝트 구간에서 사용합니다.
-
-- SKN26 4차 프로젝트
-- SKN26 최종 프로젝트
-
-## Tech Stack
-
-기술 스택은 프로젝트별 요구사항에 따라 결정합니다.
-
-확정 후 이 영역에 다음 내용을 업데이트합니다.
-
-- Backend:
-- Frontend:
-- Database:
-- AI / Model:
-- Infra:
-- Collaboration:
+SKN26 4기 프로젝트를 위한 향수 데이터 크롤링 및 관리 저장소입니다.
 
 ## Structure
 
 ```text
 .
 ├── .github/
-│   └── workflows/
-├── backend/
-├── frontend/
-├── database/
-├── models/
-├── docs/
-├── wiki/
-│   ├── book.toml
-│   └── src/
-│       ├── SUMMARY.md
-│       ├── overview.md
-│       ├── conventions.md
-│       └── conventions/
-│           ├── git-flow.md
-│           ├── commit.md
-│           ├── naming.md
-│           └── code-style.md
-├── README.md
-└── LICENSE
+├── data/               <-- 크롤링된 최종 데이터 (Bvlgari, Chanel, Dior)
+├── scripts/            <-- 데이터 수집 및 가공 스크립트
+│   ├── 01_crawl_urls/
+│   ├── 02_crawl_details/
+│   ├── 03_refine_data/
+│   ├── 04_extract_keywords/
+│   ├── 05_translate_to_korean_keywords/
+│   └── 06_formatting/
+├── requirements.txt    <-- 프로젝트 의존성 라이브러리
+└── README.md
 ```
+
+## Data Overview
+
+현재 수집된 브랜드 및 향수 데이터 개수는 다음과 같습니다:
+
+| Brand | Count |
+| :--- | :--- |
+| **Bvlgari** | 61 |
+| **Chanel** | 83 |
+| **Dior** | 126 |
+| **Total** | **270** |
 
 ## Directory Guide
 
-- `backend/`: 백엔드 애플리케이션 코드
-- `frontend/`: 프론트엔드 애플리케이션 코드
-- `database/`: DB schema, migration, seed, ERD 관련 파일
-- `models/`: AI 모델, 학습/추론 관련 파일
-- `docs/`: 프로젝트 산출물, 외부 공유 문서
-- `wiki/`: 팀 내부 규칙과 개발 컨벤션
-- `.github/`: GitHub template, workflow, automation 설정
+- `scripts/`: 향수 데이터 크롤링, 상세 정보 추출, 키워드 추출, 번역 및 포맷팅 스크립트 모음
+- `data/`: 크롤링 프로세스를 통해 생성된 최종 향수 데이터 (JSON)
 
-## Wiki
+## Crawling Strategy
 
-프로젝트 규칙은 `wiki/` 아래 mdBook 문서로 관리합니다.
+본 프로젝트는 다음과 같은 단계로 데이터를 수집 및 가공합니다:
 
-주요 문서:
-
-- Git flow
-- Commit convention
-- Naming convention
-- Code style
+1. **URL 수집 (`01_crawl_urls`)**: 브랜드별 공식 홈페이지 또는 향수 전문 사이트에서 제품 목록의 URL을 수집합니다.
+2. **상세 정보 추출 (`02_crawl_details`)**: 수집된 URL에 접속하여 Playwright를 이용해 향수 노트(Top, Heart, Base), 메인 어코드, 가격, 이미지 등의 상세 정보를 스크래핑합니다.
+3. **데이터 정제 (`03_refine_data`)**: 중복 데이터를 제거하고, 불필요한 텍스트를 정리하여 데이터를 표준화합니다.
+4. **키워드 추출 (`04_extract_keywords`)**: OpenAI API(GPT)를 활용하여 향수의 설명과 노트를 분석하고, 분위기(Mood), 어울리는 상황(Occasion) 등의 키워드를 추출합니다.
+5. **한글 번역 및 매핑 (`05_translate_to_korean_keywords`)**: 영문으로 수집된 어코드와 노트들을 미리 정의된 사전(Mapping)과 LLM을 활용하여 자연스러운 한글로 번역합니다.
+6. **최종 포맷팅 (`06_formatting`)**: 데이터베이스 삽입에 최적화된 최종 JSON 포맷으로 변환합니다.
 
 ## Getting Started
 
-새 프로젝트에서 이 템플릿을 사용할 때는 다음 항목을 먼저 수정합니다.
+### 1. 의존성 설치
+```bash
+pip install -r requirements.txt
+playwright install
+```
 
-1. 프로젝트명과 설명
-2. 확정된 기술 스택
-3. `wiki/book.toml`의 book title
-4. `wiki/src/overview.md`의 프로젝트 개요
-5. `wiki/src/conventions/`의 팀별 상세 규칙
-6. `.github/workflows/`의 브랜치, secrets, 배포 조건
+### 2. 크롤링 스크립트 실행
+스크립트는 순차적으로 실행되도록 구성되어 있습니다. 각 디렉토리 내의 파이썬 스크립트를 순서대로 실행하세요.
 
-## mdBook
-
-github acitons로 인해서 자동으로 deploy까지 가능합니다.
-사용하는 branch는 docs입니다.
-
-## GitHub Actions
-
-이 저장소는 GitHub Actions workflow를 통해 다음 작업을 수행할 수 있도록 구성합니다.
-
-- mdBook 기반 wiki 배포
-- PR 코드 리뷰 자동화
-
-프로젝트에 맞게 브랜치 이름, secrets, action 버전을 확인한 뒤 사용합니다.
+## Tech Stack
+- **Crawling**: Playwright, BeautifulSoup4
+- **AI/LLM**: OpenAI (LangChain)
+- **Data**: JSON
 
 ## License
-
 See [LICENSE](./LICENSE).
