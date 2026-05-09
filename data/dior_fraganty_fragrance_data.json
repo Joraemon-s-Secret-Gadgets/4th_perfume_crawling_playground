@@ -1,0 +1,8060 @@
+[
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 소바쥬",
+    "english_name": "sauvage",
+    "normalized_name": "sauvage",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/sauvage",
+    "image_url": "https://img.fraganty.ai/perfume/31861.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 소바쥬은 베르가못, 페퍼, 사천후추, 라벤더, 핑크 페퍼 노트가 중심이며 프레쉬 스파이시, 앰버, 시트러스 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "페퍼",
+      "사천후추",
+      "라벤더",
+      "핑크 페퍼",
+      "베티버",
+      "패출리",
+      "제라늄",
+      "엘레미",
+      "암브록산",
+      "시더우드",
+      "라브다넘"
+    ],
+    "accords": [
+      "프레쉬 스파이시",
+      "앰버",
+      "시트러스",
+      "아로마틱",
+      "머스키",
+      "우디",
+      "라벤더",
+      "허벌"
+    ],
+    "keywords": [
+      "자신감 넘치는",
+      "대담한",
+      "활력을 주는",
+      "세련된",
+      "상쾌한",
+      "주간 행사",
+      "캐주얼 외출",
+      "봄/여름 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 힙노틱 쁘아종",
+    "english_name": "hypnotic poison",
+    "normalized_name": "hypnotic poison",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/hypnotic-poison",
+    "image_url": "https://img.fraganty.ai/perfume/219.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 힙노틱 쁘아종은 코코넛, 자두, 살구, 브라질리언 로즈우드, 자스민 노트가 중심이며 바닐라, 스위트, 아몬드 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "코코넛",
+      "자두",
+      "살구",
+      "브라질리언 로즈우드",
+      "자스민",
+      "투베로즈",
+      "캐러웨이",
+      "로즈",
+      "은방울꽃",
+      "바닐라",
+      "아몬드",
+      "샌달우드",
+      "머스크"
+    ],
+    "accords": [
+      "바닐라",
+      "스위트",
+      "아몬드",
+      "프루티",
+      "너티",
+      "파우더리",
+      "우디",
+      "코코넛"
+    ],
+    "keywords": [
+      "유혹적인",
+      "신비로운",
+      "강렬한",
+      "고르망",
+      "대담한",
+      "겨울 밤 외출",
+      "가을 저녁 모임",
+      "로맨틱한 데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.0,
+      "구르망": 0.75
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쟈도르",
+    "english_name": "j adore",
+    "normalized_name": "j adore",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/j-adore",
+    "image_url": "https://img.fraganty.ai/perfume/210.jpg",
+    "price": {
+      "raw": "$188",
+      "amount": 188,
+      "currency": "USD"
+    },
+    "description": "디올 쟈도르은 서양배, 멜론, 목련, 복숭아, 만다린 오렌지 노트가 중심이며 화이트 플로럴, 플로럴, 프루티 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "서양배",
+      "멜론",
+      "목련",
+      "복숭아",
+      "만다린 오렌지",
+      "베르가못",
+      "자스민",
+      "은방울꽃",
+      "투베로즈",
+      "프리지아",
+      "로즈",
+      "난초",
+      "바이올렛",
+      "자두",
+      "머스크",
+      "바닐라",
+      "시더우드",
+      "블랙베리"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "플로럴",
+      "프루티",
+      "스위트",
+      "프레쉬",
+      "시트러스",
+      "아쿠아틱",
+      "파우더리"
+    ],
+    "keywords": [
+      "우아한",
+      "여성스러운",
+      "빛나는",
+      "세련된",
+      "따뜻한",
+      "봄날 외출",
+      "친구와의 브런치",
+      "캐주얼한 사무실 복장"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 인텐스 (2011)",
+    "english_name": "dior homme intense 2011",
+    "normalized_name": "dior homme intense 2011",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-intense-2011",
+    "image_url": "https://img.fraganty.ai/perfume/13016.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 인텐스 (2011)은 라벤더, 아이리스, 암브레트, 서양배, 시더우드 노트가 중심이며 아이리스, 우디, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라벤더",
+      "아이리스",
+      "암브레트",
+      "서양배",
+      "시더우드",
+      "베티버"
+    ],
+    "accords": [
+      "아이리스",
+      "우디",
+      "파우더리",
+      "어시",
+      "아로마틱",
+      "바이올렛",
+      "플로럴",
+      "라벤더"
+    ],
+    "keywords": [
+      "우아한",
+      "감각적인",
+      "세련된",
+      "향수 어린",
+      "강렬한",
+      "격식 있는 행사",
+      "저녁 모임",
+      "겨울 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.625,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.125,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 소바쥬 엘릭서",
+    "english_name": "sauvage elixir",
+    "normalized_name": "sauvage elixir",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/sauvage-elixir",
+    "image_url": "https://img.fraganty.ai/perfume/68415.jpg",
+    "price": {
+      "raw": "$265",
+      "amount": 265,
+      "currency": "USD"
+    },
+    "description": "디올 소바쥬 엘릭서은 너트멕, 시나몬, 카다멈, 자몽, 라벤더 노트가 중심이며 웜 스파이시, 프레쉬 스파이시, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "너트멕",
+      "시나몬",
+      "카다멈",
+      "자몽",
+      "라벤더",
+      "감초",
+      "샌달우드",
+      "앰버",
+      "패출리",
+      "베티버"
+    ],
+    "accords": [
+      "웜 스파이시",
+      "프레쉬 스파이시",
+      "우디",
+      "아로마틱",
+      "라벤더",
+      "소프트 스파이시",
+      "시나몬",
+      "앰버"
+    ],
+    "keywords": [
+      "자신감 넘치는",
+      "따뜻한",
+      "세련된",
+      "강렬한",
+      "신비로운",
+      "겨울 밤 외출",
+      "격식 있는 행사",
+      "데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "60ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.5,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 퓨어 쁘아종",
+    "english_name": "pure poison",
+    "normalized_name": "pure poison",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/pure-poison",
+    "image_url": "https://img.fraganty.ai/perfume/214.jpg",
+    "price": {
+      "raw": "$180",
+      "amount": 180,
+      "currency": "USD"
+    },
+    "description": "디올 퓨어 쁘아종은 자스민, 오렌지, 베르가못, 만다린 오렌지, 가드니아 노트가 중심이며 화이트 플로럴, 시트러스, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자스민",
+      "오렌지",
+      "베르가못",
+      "만다린 오렌지",
+      "가드니아",
+      "오렌지 블라썸",
+      "샌달우드",
+      "앰버",
+      "시더우드",
+      "머스크"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "시트러스",
+      "우디",
+      "파우더리",
+      "애니멀릭",
+      "스위트",
+      "앰버",
+      "락토닉"
+    ],
+    "keywords": [
+      "신비로운",
+      "우아한",
+      "감각적인",
+      "자신감 있는",
+      "복잡한",
+      "격식 있는 행사",
+      "저녁 외출",
+      "낮 시간 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쁘아종",
+    "english_name": "poison",
+    "normalized_name": "poison",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/poison",
+    "image_url": "https://img.fraganty.ai/perfume/218.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 쁘아종은 자두, 산딸기류, 코리앤더, 아니스, 브라질리언 로즈우드 노트가 중심이며 프루티, 스위트, 앰버 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자두",
+      "산딸기류",
+      "코리앤더",
+      "아니스",
+      "브라질리언 로즈우드",
+      "투베로즈",
+      "인센스",
+      "꿀",
+      "시나몬",
+      "오포포낙스",
+      "카네이션",
+      "자스민",
+      "오렌지 블라썸",
+      "로즈",
+      "바닐라",
+      "앰버",
+      "샌달우드",
+      "머스크",
+      "헬리오트로프",
+      "베티버",
+      "시더우드"
+    ],
+    "accords": [
+      "프루티",
+      "스위트",
+      "앰버",
+      "화이트 플로럴",
+      "우디",
+      "웜 스파이시",
+      "투베로즈",
+      "발삼"
+    ],
+    "keywords": [
+      "유혹적인",
+      "대담한",
+      "신비로운",
+      "따뜻한",
+      "강렬한",
+      "겨울 저녁 모임",
+      "로맨틱한 데이트",
+      "격식 있는 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.375,
+      "프레시": 0.0,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트",
+    "english_name": "dior addict",
+    "normalized_name": "dior addict",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict",
+    "image_url": "https://img.fraganty.ai/perfume/215.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트은 블랙베리, 페티그레인, 자귀나무 꽃, 자스민, 오렌지 블라썸 노트가 중심이며 바닐라, 화이트 플로럴, 스위트 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "블랙베리",
+      "페티그레인",
+      "자귀나무 꽃",
+      "자스민",
+      "오렌지 블라썸",
+      "공작선인장",
+      "로즈",
+      "바닐라",
+      "톤카 빈",
+      "마이소르 샌달우드"
+    ],
+    "accords": [
+      "바닐라",
+      "화이트 플로럴",
+      "스위트",
+      "프루티",
+      "앰버",
+      "아로마틱",
+      "시트러스",
+      "파우더리"
+    ],
+    "keywords": [
+      "유혹적인",
+      "자신감 넘치는",
+      "신비로운",
+      "호화로운",
+      "따뜻한",
+      "겨울 밤 외출",
+      "로맨틱한 저녁식사",
+      "격식 있는 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.375
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 소바쥬 오 드 퍼퓸",
+    "english_name": "sauvage eau de parfum",
+    "normalized_name": "sauvage eau de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/sauvage-eau-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/48100.jpg",
+    "price": {
+      "raw": "$175",
+      "amount": 175,
+      "currency": "USD"
+    },
+    "description": "디올 소바쥬 오 드 퍼퓸은 베르가못, 사천후추, 라벤더, 팔각, 너트멕 노트가 중심이며 프레쉬 스파이시, 시트러스, 앰버 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "사천후추",
+      "라벤더",
+      "팔각",
+      "너트멕",
+      "암브록산",
+      "바닐라"
+    ],
+    "accords": [
+      "프레쉬 스파이시",
+      "시트러스",
+      "앰버",
+      "라벤더",
+      "머스키",
+      "아로마틱",
+      "허벌",
+      "아니스"
+    ],
+    "keywords": [
+      "자신감 넘치는",
+      "대담한",
+      "현대적인",
+      "세련된",
+      "상쾌한",
+      "야외 나들이",
+      "격식 있는 행사",
+      "캐주얼 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.0,
+      "오리엔탈": 0.375,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 듄",
+    "english_name": "dune",
+    "normalized_name": "dune",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dune",
+    "image_url": "https://img.fraganty.ai/perfume/221.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "디올 듄은 브라질리언 로즈우드, 알데하이드, 만다린 오렌지, 베르가못, 작약 노트가 중심이며 우디, 앰버, 발삼 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "브라질리언 로즈우드",
+      "알데하이드",
+      "만다린 오렌지",
+      "베르가못",
+      "작약",
+      "백합",
+      "일랑일랑",
+      "월플라워",
+      "자스민",
+      "로즈",
+      "앰버",
+      "샌달우드",
+      "벤조인",
+      "오크모스",
+      "바닐라",
+      "패출리",
+      "머스크"
+    ],
+    "accords": [
+      "우디",
+      "앰버",
+      "발삼",
+      "웜 스파이시",
+      "파우더리",
+      "시트러스",
+      "스위트",
+      "화이트 플로럴"
+    ],
+    "keywords": [
+      "원초적",
+      "대담한",
+      "따뜻한",
+      "흥미로운",
+      "세련된",
+      "해변 데이",
+      "캐주얼 여름 외출",
+      "가을 오후 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.375,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 블루밍 부케",
+    "english_name": "miss dior blooming bouquet",
+    "normalized_name": "miss dior blooming bouquet",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-blooming-bouquet",
+    "image_url": "https://img.fraganty.ai/perfume/23280.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 블루밍 부케은 만다린 오렌지, 작약, 로즈, 살구, 복숭아 노트가 중심이며 플로럴, 로즈, 프레쉬 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "만다린 오렌지",
+      "작약",
+      "로즈",
+      "살구",
+      "복숭아",
+      "머스크"
+    ],
+    "accords": [
+      "플로럴",
+      "로즈",
+      "프레쉬",
+      "프루티",
+      "머스키",
+      "시트러스",
+      "파우더리",
+      "스위트"
+    ],
+    "keywords": [
+      "즐거운",
+      "로맨틱한",
+      "신선한",
+      "섬세한",
+      "낙관적인",
+      "봄 정원 파티",
+      "낮 데이트",
+      "캐주얼 외출"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 돌체 비타",
+    "english_name": "dolce vita",
+    "normalized_name": "dolce vita",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dolce-vita",
+    "image_url": "https://img.fraganty.ai/perfume/222.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "디올 돌체 비타은 복숭아, 카다멈, 백합, 자몽, 베르가못 노트가 중심이며 웜 스파이시, 우디, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "복숭아",
+      "카다멈",
+      "백합",
+      "자몽",
+      "베르가못",
+      "로즈",
+      "시나몬",
+      "살구",
+      "브라질리언 로즈우드",
+      "헬리오트로프",
+      "목련",
+      "바닐라",
+      "샌달우드",
+      "시더우드",
+      "코코넛"
+    ],
+    "accords": [
+      "웜 스파이시",
+      "우디",
+      "파우더리",
+      "바닐라",
+      "프루티",
+      "시나몬",
+      "스위트",
+      "시트러스"
+    ],
+    "keywords": [
+      "따뜻한",
+      "호화로운",
+      "자신감 있는",
+      "이국적인",
+      "세련된",
+      "가을 모임",
+      "주간 행사",
+      "캐주얼 외출"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.375
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 파퓸",
+    "english_name": "dior homme parfum",
+    "normalized_name": "dior homme parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/27417.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 파퓸은 아이리스, 오렌지, 레더, 로즈, 샌달우드 노트가 중심이며 아이리스, 우디, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "아이리스",
+      "오렌지",
+      "레더",
+      "로즈",
+      "샌달우드",
+      "암브레트",
+      "침향(오드)",
+      "시더우드"
+    ],
+    "accords": [
+      "아이리스",
+      "우디",
+      "파우더리",
+      "레더",
+      "바이올렛",
+      "플로럴",
+      "애니멀릭",
+      "어시"
+    ],
+    "keywords": [
+      "세련된",
+      "친밀한",
+      "호화로운",
+      "신비로운",
+      "따뜻한",
+      "격식 있는 행사",
+      "데이트 밤",
+      "저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.25,
+      "오리엔탈": 0.25,
+      "프레시": 0.0,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 미드나잇 쁘아종",
+    "english_name": "midnight poison",
+    "normalized_name": "midnight poison",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/midnight-poison",
+    "image_url": "https://img.fraganty.ai/perfume/1282.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 미드나잇 쁘아종은 베르가못, 만다린 오렌지, 로즈, 패출리, 앰버 노트가 중심이며 패출리, 시트러스, 로즈 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "만다린 오렌지",
+      "로즈",
+      "패출리",
+      "앰버",
+      "바닐라"
+    ],
+    "accords": [
+      "패출리",
+      "시트러스",
+      "로즈",
+      "우디",
+      "앰버",
+      "웜 스파이시",
+      "어시",
+      "바닐라"
+    ],
+    "keywords": [
+      "대담한",
+      "신비로운",
+      "세련된",
+      "도발적인",
+      "따뜻한",
+      "겨울 밤 외출",
+      "격식 있는 저녁 행사",
+      "로맨틱한 데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쁘아종 걸",
+    "english_name": "poison girl",
+    "normalized_name": "poison girl",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/poison-girl",
+    "image_url": "https://img.fraganty.ai/perfume/35561.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 쁘아종 걸은 비터 오렌지, 레몬, 로즈, 오렌지 블라썸, 바닐라 노트가 중심이며 바닐라, 스위트, 아몬드 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "비터 오렌지",
+      "레몬",
+      "로즈",
+      "오렌지 블라썸",
+      "바닐라",
+      "아몬드",
+      "톤카 빈",
+      "톨루 발삼",
+      "샌달우드",
+      "헬리오트로프",
+      "캐시머란"
+    ],
+    "accords": [
+      "바닐라",
+      "스위트",
+      "아몬드",
+      "파우더리",
+      "시트러스",
+      "앰버",
+      "너티",
+      "우디"
+    ],
+    "keywords": [
+      "중독성 있는",
+      "대담한",
+      "달콤한",
+      "로맨틱한",
+      "따뜻한",
+      "겨울 밤 외출",
+      "가을 저녁 모임",
+      "데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.5
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 (2020)",
+    "english_name": "dior homme 2020",
+    "normalized_name": "dior homme 2020",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-2020",
+    "image_url": "https://img.fraganty.ai/perfume/58714.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 (2020)은 베르가못, 핑크 페퍼, 엘레미, 시더우드, 캐시미어 우드 노트가 중심이며 우디, 머스키, 아로마틱 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "핑크 페퍼",
+      "엘레미",
+      "시더우드",
+      "캐시미어 우드",
+      "패출리",
+      "이소 이 슈퍼",
+      "베티버",
+      "머스크"
+    ],
+    "accords": [
+      "우디",
+      "머스키",
+      "아로마틱",
+      "앰버",
+      "시트러스",
+      "파우더리",
+      "발삼",
+      "어시"
+    ],
+    "keywords": [
+      "자신감 있는",
+      "세련된",
+      "남성적인",
+      "향기로운",
+      "대담한",
+      "비즈니스 미팅",
+      "캐주얼한 외출",
+      "저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.25,
+      "오리엔탈": 0.375,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 쉐리",
+    "english_name": "miss dior cherie",
+    "normalized_name": "miss dior cherie",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-cherie",
+    "image_url": "https://img.fraganty.ai/perfume/213.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 쉐리은 체리, 딸기, 파인애플, 만다린 오렌지, 팝콘 노트가 중심이며 스위트, 프루티, 카라멜 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "체리",
+      "딸기",
+      "파인애플",
+      "만다린 오렌지",
+      "팝콘",
+      "카라멜",
+      "로즈",
+      "자스민",
+      "바이올렛",
+      "패출리",
+      "머스크",
+      "앰버"
+    ],
+    "accords": [
+      "스위트",
+      "프루티",
+      "카라멜",
+      "체리",
+      "패출리",
+      "우디",
+      "시트러스",
+      "트로피컬"
+    ],
+    "keywords": [
+      "향수의 향이 주는 향수",
+      "장난기 가득한",
+      "세련된",
+      "반항적인",
+      "따뜻한",
+      "봄날 외출",
+      "캐주얼한 브런치",
+      "낮 시간의 데이트"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.125,
+      "구르망": 0.625
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 (2012)",
+    "english_name": "miss dior 2012",
+    "normalized_name": "miss dior 2012",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-2012",
+    "image_url": "https://img.fraganty.ai/perfume/17796.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 (2012)은 만다린 오렌지, 로즈, 자스민, 패출리, 머스크 노트가 중심이며 패출리, 시트러스, 로즈 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "만다린 오렌지",
+      "로즈",
+      "자스민",
+      "패출리",
+      "머스크"
+    ],
+    "accords": [
+      "패출리",
+      "시트러스",
+      "로즈",
+      "우디",
+      "화이트 플로럴",
+      "웜 스파이시",
+      "머스키",
+      "어시"
+    ],
+    "keywords": [
+      "세련된",
+      "자신감 있는",
+      "흙내음 나는",
+      "로맨틱한",
+      "현대적인",
+      "봄날 외출",
+      "가을 오후 티타임",
+      "격식 있는 비즈니스 미팅"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.375,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므",
+    "english_name": "dior homme",
+    "normalized_name": "dior homme",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme",
+    "image_url": "https://img.fraganty.ai/perfume/13015.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므은 라벤더, 베르가못, 세이지, 아이리스, 카카오 노트가 중심이며 아이리스, 카카오, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라벤더",
+      "베르가못",
+      "세이지",
+      "아이리스",
+      "카카오",
+      "앰버",
+      "레더",
+      "베티버",
+      "패출리"
+    ],
+    "accords": [
+      "아이리스",
+      "카카오",
+      "파우더리",
+      "어시",
+      "아로마틱",
+      "우디",
+      "레더",
+      "바이올렛"
+    ],
+    "keywords": [
+      "세련된",
+      "편안한",
+      "우아한",
+      "안정된",
+      "성숙한",
+      "격식 있는 행사",
+      "데이트 밤",
+      "저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 오 드 퍼퓸 (2021)",
+    "english_name": "miss dior eau de parfum 2021",
+    "normalized_name": "miss dior eau de parfum 2021",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-eau-de-parfum-2021",
+    "image_url": "https://img.fraganty.ai/perfume/68905.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 오 드 퍼퓸 (2021)은 아이리스, 작약, 은방울꽃, 로즈, 살구 노트가 중심이며 파우더리, 바닐라, 로즈 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "아이리스",
+      "작약",
+      "은방울꽃",
+      "로즈",
+      "살구",
+      "복숭아",
+      "바닐라",
+      "머스크",
+      "톤카 빈",
+      "샌달우드",
+      "벤조인"
+    ],
+    "accords": [
+      "파우더리",
+      "바닐라",
+      "로즈",
+      "플로럴",
+      "프루티",
+      "스위트",
+      "프레쉬",
+      "아이리스"
+    ],
+    "keywords": [
+      "우아한",
+      "로맨틱한",
+      "향수 어린",
+      "편안한",
+      "세련된",
+      "봄날 외출",
+      "캐주얼 브런치",
+      "주간 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.0,
+      "오리엔탈": 0.0,
+      "프레시": 0.125,
+      "구르망": 0.375
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 오 소바쥬",
+    "english_name": "eau sauvage",
+    "normalized_name": "eau sauvage",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eau-sauvage",
+    "image_url": "https://img.fraganty.ai/perfume/231.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 오 소바쥬은 레몬, 베르가못, 바질, 로즈마리, 캐러웨이 노트가 중심이며 아로마틱, 시트러스, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "레몬",
+      "베르가못",
+      "바질",
+      "로즈마리",
+      "캐러웨이",
+      "프루티 노츠",
+      "자스민",
+      "코리앤더",
+      "카네이션",
+      "패출리",
+      "아이리스 뿌리",
+      "샌달우드",
+      "로즈",
+      "라벤더",
+      "헤디온",
+      "오크모스",
+      "베티버",
+      "머스크",
+      "앰버"
+    ],
+    "accords": [
+      "아로마틱",
+      "시트러스",
+      "프레쉬 스파이시",
+      "우디",
+      "어시",
+      "그린",
+      "모시",
+      "플로럴"
+    ],
+    "keywords": [
+      "상쾌한",
+      "우아한",
+      "세련된",
+      "활력을 주는",
+      "향수를 불러일으키는",
+      "봄날 외출",
+      "캐주얼한 여름 모임",
+      "주간 사무실 착용"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.0,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 코롱 (2013)",
+    "english_name": "dior homme cologne 2013",
+    "normalized_name": "dior homme cologne 2013",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-cologne-2013",
+    "image_url": "https://img.fraganty.ai/perfume/17256.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 코롱 (2013)은 베르가못, 자몽 꽃, 머스크 노트가 중심이며 시트러스, 화이트 플로럴, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "자몽 꽃",
+      "머스크"
+    ],
+    "accords": [
+      "시트러스",
+      "화이트 플로럴",
+      "프레쉬 스파이시",
+      "머스키",
+      "파우더리",
+      "아로마틱",
+      "프레쉬",
+      "플로럴"
+    ],
+    "keywords": [
+      "상쾌한",
+      "활력을 주는",
+      "단순한",
+      "깨끗한",
+      "밝은",
+      "여름 야외 활동",
+      "캐주얼 모임",
+      "해변 데이"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 스포츠 (2021)",
+    "english_name": "dior homme sport 2021",
+    "normalized_name": "dior homme sport 2021",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-sport-2021",
+    "image_url": "https://img.fraganty.ai/perfume/71326.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 스포츠 (2021)은 레몬, 베르가못, 알데하이드, 엘레미, 핑크 페퍼 노트가 중심이며 시트러스, 아로마틱, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "레몬",
+      "베르가못",
+      "알데하이드",
+      "엘레미",
+      "핑크 페퍼",
+      "우디 노츠",
+      "앰버",
+      "올리바넘"
+    ],
+    "accords": [
+      "시트러스",
+      "아로마틱",
+      "우디",
+      "프레쉬 스파이시",
+      "앰버",
+      "알데하이드",
+      "프레쉬",
+      "발삼"
+    ],
+    "keywords": [
+      "상쾌한",
+      "세련된",
+      "활기찬",
+      "현대적인",
+      "활력을 주는",
+      "봄날 외출",
+      "캐주얼한 사무실 복장",
+      "주말 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.625,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트 오 드 퍼퓸 (2014)",
+    "english_name": "dior addict eau de parfum 2014",
+    "normalized_name": "dior addict eau de parfum 2014",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict-eau-de-parfum-2014",
+    "image_url": "https://img.fraganty.ai/perfume/28201.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트 오 드 퍼퓸 (2014)은 페티그레인, 오렌지 블라썸, 자스민, 바닐라 노트가 중심이며 화이트 플로럴, 바닐라, 시트러스 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "페티그레인",
+      "오렌지 블라썸",
+      "자스민",
+      "바닐라"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "바닐라",
+      "시트러스",
+      "스위트",
+      "파우더리",
+      "아로마틱",
+      "그린",
+      "발삼"
+    ],
+    "keywords": [
+      "우아한",
+      "감각적인",
+      "따뜻한",
+      "세련된",
+      "편안한",
+      "저녁 행사",
+      "로맨틱한 데이트",
+      "격식 있는 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.375,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 쉐리 오 드 퍼퓸",
+    "english_name": "miss dior cherie eau de parfum",
+    "normalized_name": "miss dior cherie eau de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-cherie-eau-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/11588.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 쉐리 오 드 퍼퓸은 딸기, 만다린 오렌지, 로즈, 자스민, 패출리 노트가 중심이며 프루티, 우디, 스위트 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "딸기",
+      "만다린 오렌지",
+      "로즈",
+      "자스민",
+      "패출리",
+      "샌달우드",
+      "앰버",
+      "오크모스",
+      "베티버"
+    ],
+    "accords": [
+      "프루티",
+      "우디",
+      "스위트",
+      "패출리",
+      "시트러스",
+      "어시",
+      "로즈",
+      "웜 스파이시"
+    ],
+    "keywords": [
+      "장난기 있는",
+      "세련된",
+      "젊은",
+      "흙내음 나는",
+      "대조적인",
+      "봄날 외출",
+      "캐주얼한 점심 데이트",
+      "정원 파티"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 앱솔루틀리 블루밍",
+    "english_name": "miss dior absolutely blooming",
+    "normalized_name": "miss dior absolutely blooming",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-absolutely-blooming",
+    "image_url": "https://img.fraganty.ai/perfume/39070.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 앱솔루틀리 블루밍은 라즈베리, 블랙커런트, 석류, 핑크 페퍼, 로즈 노트가 중심이며 프루티, 로즈, 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라즈베리",
+      "블랙커런트",
+      "석류",
+      "핑크 페퍼",
+      "로즈",
+      "작약",
+      "머스크"
+    ],
+    "accords": [
+      "프루티",
+      "로즈",
+      "플로럴",
+      "스위트",
+      "우디",
+      "머스키",
+      "소프트 스파이시",
+      "프레쉬"
+    ],
+    "keywords": [
+      "즐거운",
+      "자신감 있는",
+      "로맨틱한",
+      "장난스러운",
+      "우아한",
+      "봄날 외출",
+      "친구들과의 브런치",
+      "캐주얼한 데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 디오리시모",
+    "english_name": "diorissimo",
+    "normalized_name": "diorissimo",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/diorissimo",
+    "image_url": "https://img.fraganty.ai/perfume/224.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "디올 디오리시모은 그린 노츠, 베르가못, 은방울꽃, 라일락, 자스민 노트가 중심이며 화이트 플로럴, 그린, 프레쉬 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "그린 노츠",
+      "베르가못",
+      "은방울꽃",
+      "라일락",
+      "자스민",
+      "백합",
+      "일랑일랑",
+      "아마릴리스",
+      "로즈마리",
+      "보로니아",
+      "사향고양이",
+      "샌달우드"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "그린",
+      "프레쉬",
+      "플로럴",
+      "소피",
+      "소프트 스파이시",
+      "애니멀릭",
+      "우디"
+    ],
+    "keywords": [
+      "우아한",
+      "신선한",
+      "세련된",
+      "향수 어린",
+      "천상의",
+      "봄 정원 파티",
+      "낮 시간 캐주얼 외출",
+      "친구들과의 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 힙노틱 쁘아종 오 드 퍼퓸",
+    "english_name": "hypnotic poison eau de parfum",
+    "normalized_name": "hypnotic poison eau de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/hypnotic-poison-eau-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/23098.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 힙노틱 쁘아종 오 드 퍼퓸은 감초, 아몬드, 자스민, 오렌지 블라썸, 바닐라 노트가 중심이며 바닐라, 스위트, 소프트 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "감초",
+      "아몬드",
+      "자스민",
+      "오렌지 블라썸",
+      "바닐라",
+      "톤카 빈"
+    ],
+    "accords": [
+      "바닐라",
+      "스위트",
+      "소프트 스파이시",
+      "아몬드",
+      "화이트 플로럴",
+      "너티",
+      "프루티",
+      "발삼"
+    ],
+    "keywords": [
+      "매혹적인",
+      "향수 어린",
+      "편안한",
+      "대담한",
+      "관능적인",
+      "겨울 밤 외출",
+      "로맨틱한 저녁식사",
+      "저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.0,
+      "구르망": 0.625
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 조이",
+    "english_name": "joy by dior",
+    "normalized_name": "joy by dior",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/joy-by-dior",
+    "image_url": "https://img.fraganty.ai/perfume/51285.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 조이은 베르가못, 만다린 오렌지, 자스민, 로즈, 복숭아 노트가 중심이며 시트러스, 우디, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "만다린 오렌지",
+      "자스민",
+      "로즈",
+      "복숭아",
+      "카시스 버드",
+      "머스크",
+      "샌달우드",
+      "시더우드",
+      "패출리",
+      "벤조인"
+    ],
+    "accords": [
+      "시트러스",
+      "우디",
+      "파우더리",
+      "화이트 플로럴",
+      "머스키",
+      "로즈",
+      "웜 스파이시",
+      "플로럴"
+    ],
+    "keywords": [
+      "즐거운",
+      "상쾌한",
+      "장난기 있는",
+      "세련된",
+      "낙관적인",
+      "봄날 외출",
+      "캐주얼 브런치",
+      "주간 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 코롱 (2022)",
+    "english_name": "dior homme cologne 2022",
+    "normalized_name": "dior homme cologne 2022",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-cologne-2022",
+    "image_url": "https://img.fraganty.ai/perfume/72062.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 코롱 (2022)은 베르가못, 자몽 꽃, 머스크 노트가 중심이며 시트러스, 머스키, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "자몽 꽃",
+      "머스크"
+    ],
+    "accords": [
+      "시트러스",
+      "머스키",
+      "프레쉬 스파이시",
+      "화이트 플로럴",
+      "파우더리",
+      "아로마틱",
+      "프레쉬",
+      "플로럴"
+    ],
+    "keywords": [
+      "상쾌한",
+      "우아한",
+      "미묘한",
+      "활력을 주는",
+      "친밀한",
+      "여름 야외 활동",
+      "캐주얼 브런치",
+      "해변 소풍"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트 2",
+    "english_name": "dior addict 2",
+    "normalized_name": "dior addict 2",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict-2",
+    "image_url": "https://img.fraganty.ai/perfume/217.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트 2은 자몽, 프리지아, 오렌지, 베르가못, 석류 노트가 중심이며 시트러스, 플로럴, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자몽",
+      "프리지아",
+      "오렌지",
+      "베르가못",
+      "석류",
+      "연꽃",
+      "수박",
+      "파인애플",
+      "은방울꽃",
+      "머스크",
+      "시더우드",
+      "샌달우드"
+    ],
+    "accords": [
+      "시트러스",
+      "플로럴",
+      "우디",
+      "프레쉬 스파이시",
+      "프루티",
+      "아쿠아틱",
+      "오조닉",
+      "스위트"
+    ],
+    "keywords": [
+      "즐거운",
+      "상쾌한",
+      "장난스러운",
+      "우아한",
+      "활력을 주는",
+      "봄 소풍",
+      "여름 외출",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.5,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 힙노틱 쁘아종 오 센슈얼",
+    "english_name": "hypnotic poison eau sensuelle",
+    "normalized_name": "hypnotic poison eau sensuelle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/hypnotic-poison-eau-sensuelle",
+    "image_url": "https://img.fraganty.ai/perfume/9600.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 힙노틱 쁘아종 오 센슈얼은 오렌지 블라썸, 일랑일랑, 로즈, 난초, 투베로즈 노트가 중심이며 바닐라, 스위트, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "오렌지 블라썸",
+      "일랑일랑",
+      "로즈",
+      "난초",
+      "투베로즈",
+      "그린 노츠",
+      "바닐라",
+      "샌달우드",
+      "머스크",
+      "우디 노츠"
+    ],
+    "accords": [
+      "바닐라",
+      "스위트",
+      "파우더리",
+      "우디",
+      "화이트 플로럴",
+      "플로럴",
+      "옐로우 플로럴",
+      "투베로즈"
+    ],
+    "keywords": [
+      "유혹적인",
+      "편안한",
+      "여성스러운",
+      "따뜻한",
+      "친밀한",
+      "데이트 밤",
+      "저녁 행사",
+      "아늑한 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.625,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.0,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "포에버 앤 에버 디올",
+    "english_name": "les creations de monsieur dior forever and ever",
+    "normalized_name": "les creations de monsieur dior forever and ever",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/les-creations-de-monsieur-dior-forever-and-ever",
+    "image_url": "https://img.fraganty.ai/perfume/7374.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "포에버 앤 에버 디올은 프리지아, 자스민, 로즈 노트가 중심이며 플로럴, 로즈, 화이트 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "프리지아",
+      "자스민",
+      "로즈"
+    ],
+    "accords": [
+      "플로럴",
+      "로즈",
+      "화이트 플로럴",
+      "소프트 스파이시",
+      "프레쉬",
+      "그린",
+      "시트러스",
+      "애니멀릭"
+    ],
+    "keywords": [
+      "우아한",
+      "로맨틱한",
+      "신선한",
+      "세련된",
+      "초대하는",
+      "봄 정원 파티",
+      "주간 외출",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 (2005)",
+    "english_name": "dior homme 2005",
+    "normalized_name": "dior homme 2005",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-2005",
+    "image_url": "https://img.fraganty.ai/perfume/230.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 (2005)은 라벤더, 베르가못, 세이지, 아이리스, 카카오 노트가 중심이며 아이리스, 웜 스파이시, 아로마틱 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라벤더",
+      "베르가못",
+      "세이지",
+      "아이리스",
+      "카카오",
+      "앰버",
+      "카다멈",
+      "레더",
+      "베티버",
+      "패출리"
+    ],
+    "accords": [
+      "아이리스",
+      "웜 스파이시",
+      "아로마틱",
+      "어시",
+      "카카오",
+      "파우더리",
+      "우디",
+      "라벤더"
+    ],
+    "keywords": [
+      "우아한",
+      "양성적인",
+      "친밀한",
+      "세련된",
+      "편안한",
+      "겨울 저녁 모임",
+      "격식 있는 행사",
+      "데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 파퓸 (2025)",
+    "english_name": "dior homme parfum 2025",
+    "normalized_name": "dior homme parfum 2025",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-parfum-2025",
+    "image_url": "https://img.fraganty.ai/perfume/101016.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 파퓸 (2025)은 아이리스, 앰버, 패출리, 베티버 노트가 중심이며 앰버, 우디, 어시(흙) 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "아이리스",
+      "앰버",
+      "패출리",
+      "베티버"
+    ],
+    "accords": [
+      "앰버",
+      "우디",
+      "어시",
+      "아이리스",
+      "파우더리",
+      "패출리",
+      "바이올렛",
+      "웜 스파이시"
+    ],
+    "keywords": [
+      "우아한",
+      "따뜻한",
+      "현대적인",
+      "매력적인",
+      "편안한",
+      "겨울 저녁 모임",
+      "격식 있는 행사",
+      "데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.375,
+      "오리엔탈": 0.25,
+      "프레시": 0.0,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 로즈 앤 로제스",
+    "english_name": "miss dior rose n roses",
+    "normalized_name": "miss dior rose n roses",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-rose-n-roses",
+    "image_url": "https://img.fraganty.ai/perfume/58562.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 로즈 앤 로제스은 제라늄, 베르가못, 만다린 오렌지, 로즈, 머스크 노트가 중심이며 로즈, 머스키, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "제라늄",
+      "베르가못",
+      "만다린 오렌지",
+      "로즈",
+      "머스크"
+    ],
+    "accords": [
+      "로즈",
+      "머스키",
+      "프레쉬 스파이시",
+      "시트러스",
+      "아로마틱",
+      "파우더리",
+      "플로럴",
+      "허벌"
+    ],
+    "keywords": [
+      "즐거운",
+      "상쾌한",
+      "로맨틱한",
+      "우아한",
+      "현대적인",
+      "봄날 외출",
+      "캐주얼 브런치",
+      "정원 파티"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 르 파퓸",
+    "english_name": "miss dior le parfum",
+    "normalized_name": "miss dior le parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-le-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/15967.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 르 파퓸은 만다린 오렌지, 로즈, 앰버, 패출리, 바닐라 노트가 중심이며 앰버, 패출리, 로즈 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "만다린 오렌지",
+      "로즈",
+      "앰버",
+      "패출리",
+      "바닐라"
+    ],
+    "accords": [
+      "앰버",
+      "패출리",
+      "로즈",
+      "바닐라",
+      "우디",
+      "시트러스",
+      "웜 스파이시",
+      "발삼"
+    ],
+    "keywords": [
+      "우아한",
+      "신비로운",
+      "로맨틱한",
+      "세련된",
+      "따뜻한",
+      "격식 있는 행사",
+      "데이트 밤",
+      "저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.25,
+      "오리엔탈": 0.375,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 오 드 퍼퓸 (2017)",
+    "english_name": "miss dior eau de parfum 2017",
+    "normalized_name": "miss dior eau de parfum 2017",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-eau-de-parfum-2017",
+    "image_url": "https://img.fraganty.ai/perfume/45202.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 오 드 퍼퓸 (2017)은 핑크 페퍼, 블러드 오렌지, 오렌지, 만다린 오렌지, 베르가못 노트가 중심이며 시트러스, 로즈, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "핑크 페퍼",
+      "블러드 오렌지",
+      "오렌지",
+      "만다린 오렌지",
+      "베르가못",
+      "레몬",
+      "로즈",
+      "자스민",
+      "패출리",
+      "팔리산더 로즈우드"
+    ],
+    "accords": [
+      "시트러스",
+      "로즈",
+      "우디",
+      "패출리",
+      "스위트",
+      "웜 스파이시",
+      "소프트 스파이시",
+      "발삼"
+    ],
+    "keywords": [
+      "즐거운",
+      "우아한",
+      "빛나는",
+      "신선한",
+      "세련된",
+      "봄날 외출",
+      "캐주얼 브런치",
+      "주간 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.25,
+      "오리엔탈": 0.375,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올",
+    "english_name": "miss dior",
+    "normalized_name": "miss dior",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior",
+    "image_url": "https://img.fraganty.ai/perfume/223.jpg",
+    "price": {
+      "raw": "$175",
+      "amount": 175,
+      "currency": "USD"
+    },
+    "description": "미스 디올은 알데하이드, 갈바넘, 클래리 세이지, 가드니아, 베르가못 노트가 중심이며 아로마틱, 그린, 어시(흙) 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "알데하이드",
+      "갈바넘",
+      "클래리 세이지",
+      "가드니아",
+      "베르가못",
+      "수선화",
+      "아이리스",
+      "카네이션",
+      "아이리스 뿌리",
+      "자스민",
+      "은방울꽃",
+      "로즈",
+      "네롤리",
+      "오크모스",
+      "레더",
+      "베티버",
+      "패출리",
+      "라브다넘",
+      "앰버",
+      "샌달우드"
+    ],
+    "accords": [
+      "아로마틱",
+      "그린",
+      "어시",
+      "우디",
+      "화이트 플로럴",
+      "모시",
+      "알데하이드",
+      "프레쉬"
+    ],
+    "keywords": [
+      "대담한",
+      "흙내음 나는",
+      "세련된",
+      "반항적인",
+      "복합적인",
+      "봄날 외출",
+      "미술관 개관",
+      "캐주얼 비즈니스 미팅"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.0,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 스포츠",
+    "english_name": "dior homme sport",
+    "normalized_name": "dior homme sport",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-sport",
+    "image_url": "https://img.fraganty.ai/perfume/4033.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 스포츠은 레몬, 자몽, 베르가못, 엘레미, 생강 노트가 중심이며 시트러스, 프레쉬 스파이시, 아로마틱 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "레몬",
+      "자몽",
+      "베르가못",
+      "엘레미",
+      "생강",
+      "베티버",
+      "시더우드",
+      "로즈마리",
+      "라벤더",
+      "샌달우드"
+    ],
+    "accords": [
+      "시트러스",
+      "프레쉬 스파이시",
+      "아로마틱",
+      "우디",
+      "프레쉬",
+      "라벤더",
+      "허벌",
+      "파우더리"
+    ],
+    "keywords": [
+      "활력을 주는",
+      "세련된",
+      "복잡한",
+      "상쾌한",
+      "미묘한",
+      "캐주얼한 외출",
+      "야외 활동",
+      "봄/여름 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.625,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트 오 드 퍼퓸",
+    "english_name": "dior addict eau de parfum",
+    "normalized_name": "dior addict eau de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict-eau-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/15270.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트 오 드 퍼퓸은 만다린 오렌지, 자귀나무 꽃, 오렌지 블라썸, 공작선인장, 로즈 노트가 중심이며 바닐라, 화이트 플로럴, 시트러스 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "만다린 오렌지",
+      "자귀나무 꽃",
+      "오렌지 블라썸",
+      "공작선인장",
+      "로즈",
+      "바닐라",
+      "톤카 빈",
+      "샌달우드"
+    ],
+    "accords": [
+      "바닐라",
+      "화이트 플로럴",
+      "시트러스",
+      "스위트",
+      "파우더리",
+      "플로럴",
+      "프루티",
+      "우디"
+    ],
+    "keywords": [
+      "관능적",
+      "세련된",
+      "신비로운",
+      "따뜻한",
+      "우아한",
+      "겨울 저녁 모임",
+      "로맨틱한 데이트",
+      "격식 있는 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.125,
+      "구르망": 0.375
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "페브 델리슈",
+    "english_name": "f ve d licieuse",
+    "normalized_name": "f ve d licieuse",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/f-ve-d-licieuse",
+    "image_url": "https://img.fraganty.ai/perfume/30164.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "페브 델리슈은 라벤더, 민트, 베르가못, 사워 체리, 프리지아 노트가 중심이며 스위트, 바닐라, 앰버 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라벤더",
+      "민트",
+      "베르가못",
+      "사워 체리",
+      "프리지아",
+      "자스민",
+      "톤카 빈",
+      "바닐라",
+      "카카오",
+      "카라멜",
+      "프랄린",
+      "우유",
+      "벤조인",
+      "샌달우드",
+      "레더",
+      "시더우드"
+    ],
+    "accords": [
+      "스위트",
+      "바닐라",
+      "앰버",
+      "웜 스파이시",
+      "카카오",
+      "락토닉",
+      "카라멜",
+      "아로마틱"
+    ],
+    "keywords": [
+      "사치스러운",
+      "따뜻한",
+      "편안한",
+      "고르망",
+      "세련된",
+      "겨울 저녁 모임",
+      "로맨틱한 데이트",
+      "아늑한 집에서의 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.625
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "앙브르 뉘",
+    "english_name": "ambre nuit",
+    "normalized_name": "ambre nuit",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/ambre-nuit",
+    "image_url": "https://img.fraganty.ai/perfume/7092.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "앙브르 뉘은 베르가못, 자몽, 로즈, 핑크 페퍼, 앰버그리스 노트가 중심이며 로즈, 시트러스, 소프트 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "자몽",
+      "로즈",
+      "핑크 페퍼",
+      "앰버그리스",
+      "과약 우드",
+      "시더우드",
+      "패출리"
+    ],
+    "accords": [
+      "로즈",
+      "시트러스",
+      "소프트 스파이시",
+      "플로럴",
+      "우디",
+      "프레쉬 스파이시",
+      "앰버",
+      "머스키"
+    ],
+    "keywords": [
+      "세련된",
+      "친밀한",
+      "신비로운",
+      "따뜻한",
+      "우아한",
+      "격식 있는 행사",
+      "데이트 밤",
+      "저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "125ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.375,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 오 포 맨",
+    "english_name": "dior homme eau for men",
+    "normalized_name": "dior homme eau for men",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-eau-for-men",
+    "image_url": "https://img.fraganty.ai/perfume/22860.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 오 포 맨은 코리앤더, 자몽, 베르가못, 아이리스, 시더우드 노트가 중심이며 아이리스, 시트러스, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "코리앤더",
+      "자몽",
+      "베르가못",
+      "아이리스",
+      "시더우드",
+      "앰버"
+    ],
+    "accords": [
+      "아이리스",
+      "시트러스",
+      "파우더리",
+      "우디",
+      "아로마틱",
+      "바이올렛",
+      "앰버",
+      "어시"
+    ],
+    "keywords": [
+      "세련된",
+      "사색적인",
+      "상쾌한",
+      "우아한",
+      "균형 잡힌",
+      "봄날 외출",
+      "여름 브런치",
+      "캐주얼한 사무실 착용"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "바닐라 디오라마",
+    "english_name": "vanilla diorama",
+    "normalized_name": "vanilla diorama",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/vanilla-diorama",
+    "image_url": "https://img.fraganty.ai/perfume/68198.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "바닐라 디오라마은 오렌지, 핑크 페퍼, 레몬, 럼, 카카오 노트가 중심이며 웜 스파이시, 바닐라, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "오렌지",
+      "핑크 페퍼",
+      "레몬",
+      "럼",
+      "카카오",
+      "카다멈",
+      "바닐라",
+      "샌달우드",
+      "패출리"
+    ],
+    "accords": [
+      "웜 스파이시",
+      "바닐라",
+      "우디",
+      "시트러스",
+      "스위트",
+      "럼",
+      "카카오",
+      "파우더리"
+    ],
+    "keywords": [
+      "매력적인",
+      "따뜻한",
+      "세련된",
+      "활력을 주는",
+      "중독성 있는",
+      "겨울 저녁 모임",
+      "아늑한 밤",
+      "격식 있는 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.5
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "오 소바쥬 파퓸",
+    "english_name": "eau sauvage parfum",
+    "normalized_name": "eau sauvage parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eau-sauvage-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/14811.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "오 소바쥬 파퓸은 베르가못, 시트론, 페티그레인, 베티버, 라벤더 노트가 중심이며 아로마틱, 앰버, 시트러스 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "시트론",
+      "페티그레인",
+      "베티버",
+      "라벤더",
+      "헤디온",
+      "몰약",
+      "오크모스",
+      "패출리"
+    ],
+    "accords": [
+      "아로마틱",
+      "앰버",
+      "시트러스",
+      "우디",
+      "어시",
+      "웜 스파이시",
+      "발삼",
+      "프레쉬 스파이시"
+    ],
+    "keywords": [
+      "세련된",
+      "사색적인",
+      "따뜻한",
+      "우아한",
+      "매력적인",
+      "격식 있는 행사",
+      "저녁 모임",
+      "데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.375,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "보아 다르장",
+    "english_name": "bois d argent",
+    "normalized_name": "bois d argent",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/bois-d-argent",
+    "image_url": "https://img.fraganty.ai/perfume/1377.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "보아 다르장은 아이리스, 사이프러스, 주니퍼 베리, 몰약, 패출리 노트가 중심이며 앰버, 우디, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "아이리스",
+      "사이프러스",
+      "주니퍼 베리",
+      "몰약",
+      "패출리",
+      "우디 노츠",
+      "꿀",
+      "바닐라",
+      "앰버",
+      "레진",
+      "머스크",
+      "레더"
+    ],
+    "accords": [
+      "앰버",
+      "우디",
+      "파우더리",
+      "아이리스",
+      "스위트",
+      "아로마틱",
+      "허니",
+      "발삼"
+    ],
+    "keywords": [
+      "세련된",
+      "사색적인",
+      "우아한",
+      "따뜻한",
+      "미묘한",
+      "겨울 낮",
+      "봄 나들이",
+      "가을 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "소바쥬 오 포르테",
+    "english_name": "sauvage eau forte",
+    "normalized_name": "sauvage eau forte",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/sauvage-eau-forte",
+    "image_url": "https://img.fraganty.ai/perfume/95863.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "소바쥬 오 포르테은 스파이시 노츠, 엘레미, 라벤더, 머스크, 우디 노츠 노트가 중심이며 라벤더, 아로마틱, 머스키 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "스파이시 노츠",
+      "엘레미",
+      "라벤더",
+      "머스크",
+      "우디 노츠"
+    ],
+    "accords": [
+      "라벤더",
+      "아로마틱",
+      "머스키",
+      "웜 스파이시",
+      "우디",
+      "파우더리",
+      "프레쉬 스파이시",
+      "발삼"
+    ],
+    "keywords": [
+      "자신감 넘치는",
+      "상쾌한",
+      "편안한",
+      "세련된",
+      "신비로운",
+      "캐주얼한 외출",
+      "사무실 착용",
+      "저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.375,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 스포츠 (2012)",
+    "english_name": "dior homme sport 2012",
+    "normalized_name": "dior homme sport 2012",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-sport-2012",
+    "image_url": "https://img.fraganty.ai/perfume/14719.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 스포츠 (2012)은 시트론, 생강, 아이리스, 시더우드, 그린 노츠 노트가 중심이며 시트러스, 아이리스, 프레쉬 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "시트론",
+      "생강",
+      "아이리스",
+      "시더우드",
+      "그린 노츠"
+    ],
+    "accords": [
+      "시트러스",
+      "아이리스",
+      "프레쉬",
+      "프레쉬 스파이시",
+      "파우더리",
+      "우디",
+      "바이올렛",
+      "어시"
+    ],
+    "keywords": [
+      "세련된",
+      "기분 좋은",
+      "정제된",
+      "신선한",
+      "우아한",
+      "캐주얼한 외출",
+      "사무실",
+      "봄/여름 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "오 소바쥬 파퓸 (2017)",
+    "english_name": "eau sauvage parfum 2017",
+    "normalized_name": "eau sauvage parfum 2017",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eau-sauvage-parfum-2017",
+    "image_url": "https://img.fraganty.ai/perfume/43977.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "오 소바쥬 파퓸 (2017)은 시트론, 베르가못, 라벤더, 베티버, 엘레미 노트가 중심이며 아로마틱, 시트러스, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "시트론",
+      "베르가못",
+      "라벤더",
+      "베티버",
+      "엘레미"
+    ],
+    "accords": [
+      "아로마틱",
+      "시트러스",
+      "프레쉬 스파이시",
+      "우디",
+      "라벤더",
+      "발삼",
+      "어시",
+      "침엽수"
+    ],
+    "keywords": [
+      "우아한",
+      "세련된",
+      "자신감 있는",
+      "신선한",
+      "균형 잡힌",
+      "주간 행사",
+      "캐주얼 외출",
+      "봄/여름 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.125,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "크루즈 컬렉션",
+    "english_name": "cruise collection",
+    "normalized_name": "cruise collection",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/cruise-collection",
+    "image_url": "https://img.fraganty.ai/perfume/3291.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "크루즈 컬렉션은 베르가못, 레몬, 페티그레인, 오렌지 블라썸, 주니퍼 베리 노트가 중심이며 시트러스, 아로마틱, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "레몬",
+      "페티그레인",
+      "오렌지 블라썸",
+      "주니퍼 베리",
+      "아몬드",
+      "사이프러스",
+      "시더우드",
+      "머스크",
+      "갈바넘",
+      "캐러웨이"
+    ],
+    "accords": [
+      "시트러스",
+      "아로마틱",
+      "프레쉬 스파이시",
+      "우디",
+      "화이트 플로럴",
+      "그린",
+      "스위트",
+      "파우더리"
+    ],
+    "keywords": [
+      "상쾌한",
+      "세련된",
+      "밝은",
+      "활력을 주는",
+      "호기심을 자극하는",
+      "여름 야외 활동",
+      "해변 파티",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.5,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "오드 이스파한",
+    "english_name": "oud ispahan",
+    "normalized_name": "oud ispahan",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/oud-ispahan",
+    "image_url": "https://img.fraganty.ai/perfume/15231.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "오드 이스파한은 라브다넘, 로즈, 패출리, 사프란, 침향(오드) 노트가 중심이며 오드, 로즈, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라브다넘",
+      "로즈",
+      "패출리",
+      "사프란",
+      "침향(오드)",
+      "샌달우드",
+      "시더우드"
+    ],
+    "accords": [
+      "오드",
+      "로즈",
+      "우디",
+      "웜 스파이시",
+      "앰버",
+      "패출리",
+      "발삼",
+      "플로럴"
+    ],
+    "keywords": [
+      "호화로운",
+      "신비로운",
+      "따뜻한",
+      "세련된",
+      "강렬한",
+      "격식 있는 행사",
+      "저녁 모임",
+      "데이트 나이트"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "125ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.375,
+      "오리엔탈": 0.375,
+      "프레시": 0.0,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 듄 쁘르 옴므",
+    "english_name": "dune pour homme",
+    "normalized_name": "dune pour homme",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dune-pour-homme",
+    "image_url": "https://img.fraganty.ai/perfume/235.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 듄 쁘르 옴므은 무화과 잎, 카시스 버드, 세이지, 바질, 무화과 노트가 중심이며 우디, 그린, 아로마틱 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "무화과 잎",
+      "카시스 버드",
+      "세이지",
+      "바질",
+      "무화과",
+      "로즈",
+      "미뇨네트",
+      "샌달우드",
+      "시더우드",
+      "톤카 빈",
+      "바닐라"
+    ],
+    "accords": [
+      "우디",
+      "그린",
+      "아로마틱",
+      "프루티",
+      "프레쉬",
+      "스위트",
+      "소프트 스파이시",
+      "파우더리"
+    ],
+    "keywords": [
+      "사색적인",
+      "식물적인",
+      "세련된",
+      "편안한",
+      "균형 잡힌",
+      "봄날 외출",
+      "캐주얼한 낮 시간의 행사",
+      "야외 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.375,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "화씨 32",
+    "english_name": "fahrenheit 32",
+    "normalized_name": "fahrenheit 32",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/fahrenheit-32",
+    "image_url": "https://img.fraganty.ai/perfume/987.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "화씨 32은 오렌지 블라썸, 베티버, 바닐라 노트가 중심이며 바닐라, 화이트 플로럴, 스위트 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "오렌지 블라썸",
+      "베티버",
+      "바닐라"
+    ],
+    "accords": [
+      "바닐라",
+      "화이트 플로럴",
+      "스위트",
+      "시트러스",
+      "아로마틱",
+      "우디",
+      "어시",
+      "파우더리"
+    ],
+    "keywords": [
+      "자신감 있는",
+      "세련된",
+      "편안한",
+      "부드러운",
+      "미묘한",
+      "봄날 외출",
+      "캐주얼한 낮 시간의 이벤트",
+      "가을 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트 오 프레쉬 (2014)",
+    "english_name": "dior addict eau fraiche 2014",
+    "normalized_name": "dior addict eau fraiche 2014",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict-eau-fraiche-2014",
+    "image_url": "https://img.fraganty.ai/perfume/25611.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트 오 프레쉬 (2014)은 베르가못, 자몽, 프리지아, 은방울꽃, 머스크 노트가 중심이며 플로럴, 시트러스, 머스키 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "자몽",
+      "프리지아",
+      "은방울꽃",
+      "머스크",
+      "우디 노츠"
+    ],
+    "accords": [
+      "플로럴",
+      "시트러스",
+      "머스키",
+      "프레쉬 스파이시",
+      "화이트 플로럴",
+      "파우더리",
+      "그린",
+      "아로마틱"
+    ],
+    "keywords": [
+      "상쾌한",
+      "낙관적인",
+      "우아한",
+      "가벼운 마음의",
+      "세련된",
+      "봄 소풍",
+      "여름 브런치",
+      "캐주얼한 외출"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쟈도르 인피니심",
+    "english_name": "j adore infinissime",
+    "normalized_name": "j adore infinissime",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/j-adore-infinissime",
+    "image_url": "https://img.fraganty.ai/perfume/62638.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 쟈도르 인피니심은 블러드 오렌지, 핑크 페퍼, 베르가못, 투베로즈, 자스민 노트가 중심이며 화이트 플로럴, 투베로즈, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "블러드 오렌지",
+      "핑크 페퍼",
+      "베르가못",
+      "투베로즈",
+      "자스민",
+      "일랑일랑",
+      "은방울꽃",
+      "로즈",
+      "샌달우드"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "투베로즈",
+      "우디",
+      "옐로우 플로럴",
+      "시트러스",
+      "스위트",
+      "플로럴",
+      "애니멀릭"
+    ],
+    "keywords": [
+      "우아한",
+      "빛나는",
+      "로맨틱한",
+      "세련된",
+      "사치스러운",
+      "봄날 외출",
+      "격식 있는 행사",
+      "데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쟈도르 오 드 뚜왈렛 (2011)",
+    "english_name": "j adore eau de toilette 2011",
+    "normalized_name": "j adore eau de toilette 2011",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/j-adore-eau-de-toilette-2011",
+    "image_url": "https://img.fraganty.ai/perfume/13017.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 쟈도르 오 드 뚜왈렛 (2011)은 시트러스, 만다린 오렌지, 네롤리, 자스민, 오렌지 블라썸 노트가 중심이며 화이트 플로럴, 시트러스, 스위트 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "시트러스",
+      "만다린 오렌지",
+      "네롤리",
+      "자스민",
+      "오렌지 블라썸",
+      "일랑일랑",
+      "투베로즈",
+      "로즈",
+      "우디 노츠",
+      "바닐라"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "시트러스",
+      "스위트",
+      "프레쉬",
+      "옐로우 플로럴",
+      "우디",
+      "플로럴",
+      "투베로즈"
+    ],
+    "keywords": [
+      "우아한",
+      "상쾌한",
+      "즐거운",
+      "가벼운 마음의",
+      "세련된",
+      "봄날 외출",
+      "친구와의 브런치",
+      "캐주얼한 사무실 복장"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.25,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 스포츠 (2017)",
+    "english_name": "dior homme sport 2017",
+    "normalized_name": "dior homme sport 2017",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-sport-2017",
+    "image_url": "https://img.fraganty.ai/perfume/42974.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 스포츠 (2017)은 블러드 오렌지, 자몽, 레몬, 서양배, 핑크 페퍼 노트가 중심이며 시트러스, 프레쉬 스파이시, 아로마틱 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "블러드 오렌지",
+      "자몽",
+      "레몬",
+      "서양배",
+      "핑크 페퍼",
+      "제라늄",
+      "너트멕",
+      "샌달우드",
+      "베티버"
+    ],
+    "accords": [
+      "시트러스",
+      "프레쉬 스파이시",
+      "아로마틱",
+      "우디",
+      "프루티",
+      "스위트",
+      "소프트 스파이시",
+      "프레쉬"
+    ],
+    "keywords": [
+      "활력을 주는",
+      "상쾌한",
+      "자신감 있는",
+      "세련된",
+      "매력적인",
+      "캐주얼한 외출",
+      "야외 활동",
+      "친구들과의 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.5,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "아쿠아 화씨",
+    "english_name": "aqua fahrenheit",
+    "normalized_name": "aqua fahrenheit",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/aqua-fahrenheit",
+    "image_url": "https://img.fraganty.ai/perfume/11388.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "아쿠아 화씨은 자몽, 만다린 오렌지, 바이올렛, 민트, 바질 노트가 중심이며 시트러스, 아로마틱, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자몽",
+      "만다린 오렌지",
+      "바이올렛",
+      "민트",
+      "바질",
+      "레더",
+      "베티버"
+    ],
+    "accords": [
+      "시트러스",
+      "아로마틱",
+      "프레쉬 스파이시",
+      "그린",
+      "바이올렛",
+      "레더",
+      "파우더리",
+      "우디"
+    ],
+    "keywords": [
+      "상쾌한",
+      "밝은",
+      "신선한",
+      "허브의",
+      "다가가기 쉬운",
+      "봄날 외출",
+      "캐주얼한 여름 모임",
+      "주간 사무실 착용"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쟈도르 인 조이",
+    "english_name": "j adore in joy",
+    "normalized_name": "j adore in joy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/j-adore-in-joy",
+    "image_url": "https://img.fraganty.ai/perfume/43704.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 쟈도르 인 조이은 소금, 자스민, 일랑일랑, 네롤리, 투베로즈 노트가 중심이며 화이트 플로럴, 솔티, 프루티 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "소금",
+      "자스민",
+      "일랑일랑",
+      "네롤리",
+      "투베로즈",
+      "복숭아"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "솔티",
+      "프루티",
+      "옐로우 플로럴",
+      "스위트",
+      "마린",
+      "투베로즈",
+      "플로럴"
+    ],
+    "keywords": [
+      "상쾌한",
+      "즐거운",
+      "우아한",
+      "장난기 있는",
+      "가벼운",
+      "해변 데이",
+      "소풍",
+      "캐주얼 외출"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.0,
+      "오리엔탈": 0.0,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 블루밍 부케 (2023)",
+    "english_name": "miss dior blooming bouquet 2023",
+    "normalized_name": "miss dior blooming bouquet 2023",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-blooming-bouquet-2023",
+    "image_url": "https://img.fraganty.ai/perfume/78945.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 블루밍 부케 (2023)은 베르가못, 스위트 피, 작약, 로즈, 머스크 노트가 중심이며 플로럴, 로즈, 프레쉬 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "스위트 피",
+      "작약",
+      "로즈",
+      "머스크"
+    ],
+    "accords": [
+      "플로럴",
+      "로즈",
+      "프레쉬",
+      "머스키",
+      "시트러스",
+      "스위트",
+      "파우더리",
+      "프레쉬 스파이시"
+    ],
+    "keywords": [
+      "우아한",
+      "상쾌한",
+      "여성스러운",
+      "섬세한",
+      "매력적인",
+      "봄날 외출",
+      "정원 파티",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.375,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트 오 델리스",
+    "english_name": "dior addict eau delice",
+    "normalized_name": "dior addict eau delice",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict-eau-delice",
+    "image_url": "https://img.fraganty.ai/perfume/18123.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트 오 델리스은 크랜베리, 체리, 오렌지, 베르가못, 아몬드 노트가 중심이며 프루티, 스위트, 체리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "크랜베리",
+      "체리",
+      "오렌지",
+      "베르가못",
+      "아몬드",
+      "일랑일랑",
+      "자스민",
+      "로즈",
+      "머스크",
+      "바닐라",
+      "시더우드"
+    ],
+    "accords": [
+      "프루티",
+      "스위트",
+      "체리",
+      "아몬드",
+      "너티",
+      "머스키",
+      "시트러스",
+      "바닐라"
+    ],
+    "keywords": [
+      "즐거운",
+      "장난기 있는",
+      "세련된",
+      "따뜻한",
+      "초대하는",
+      "여름 외출",
+      "소풍",
+      "캐주얼 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.75
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 인텐스 (2025)",
+    "english_name": "dior homme intense 2025",
+    "normalized_name": "dior homme intense 2025",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-intense-2025",
+    "image_url": "https://img.fraganty.ai/perfume/101596.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 인텐스 (2025)은 아이리스, 암브레트, 시더우드 노트가 중심이며 아이리스, 우디, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "아이리스",
+      "암브레트",
+      "시더우드"
+    ],
+    "accords": [
+      "아이리스",
+      "우디",
+      "파우더리",
+      "바이올렛",
+      "머스키",
+      "플로럴",
+      "어시",
+      "아로마틱"
+    ],
+    "keywords": [
+      "세련된",
+      "우아한",
+      "양성적인",
+      "친밀한",
+      "대담한",
+      "격식 있는 행사",
+      "데이트 밤",
+      "저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 조이 인텐스",
+    "english_name": "joy by dior intense",
+    "normalized_name": "joy by dior intense",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/joy-by-dior-intense",
+    "image_url": "https://img.fraganty.ai/perfume/56214.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 조이 인텐스은 네롤리, 베르가못, 로즈, 자스민, 바닐라 노트가 중심이며 바닐라, 화이트 플로럴, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "네롤리",
+      "베르가못",
+      "로즈",
+      "자스민",
+      "바닐라",
+      "머스크",
+      "톤카 빈",
+      "샌달우드"
+    ],
+    "accords": [
+      "바닐라",
+      "화이트 플로럴",
+      "파우더리",
+      "시트러스",
+      "로즈",
+      "머스키",
+      "우디",
+      "플로럴"
+    ],
+    "keywords": [
+      "우아한",
+      "편안한",
+      "따뜻한",
+      "세련된",
+      "매력적인",
+      "겨울 외출",
+      "봄 오후 티타임",
+      "가을 저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "쁘아종 걸 언익스펙티드",
+    "english_name": "poison girl unexpected",
+    "normalized_name": "poison girl unexpected",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/poison-girl-unexpected",
+    "image_url": "https://img.fraganty.ai/perfume/48031.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "쁘아종 걸 언익스펙티드은 생강, 블러드 오렌지, 레몬, 로즈, 바닐라 노트가 중심이며 바닐라, 시트러스, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "생강",
+      "블러드 오렌지",
+      "레몬",
+      "로즈",
+      "바닐라",
+      "톤카 빈",
+      "헤이즐넛",
+      "캐시머란"
+    ],
+    "accords": [
+      "바닐라",
+      "시트러스",
+      "프레쉬 스파이시",
+      "스위트",
+      "프레쉬",
+      "우디",
+      "파우더리",
+      "너티"
+    ],
+    "keywords": [
+      "명랑한",
+      "아늑한",
+      "세련된",
+      "매력적인",
+      "장난기 있는",
+      "겨울 시장",
+      "캐주얼한 외출",
+      "봄 소풍"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.375
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 쉐리 오 드 뚜왈렛 (2010)",
+    "english_name": "miss dior cherie eau de toilette 2010",
+    "normalized_name": "miss dior cherie eau de toilette 2010",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-cherie-eau-de-toilette-2010",
+    "image_url": "https://img.fraganty.ai/perfume/8208.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 쉐리 오 드 뚜왈렛 (2010)은 프루티 노츠, 투베로즈, 프리지아, 자스민, 은방울꽃 노트가 중심이며 스위트, 바닐라, 프루티 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "프루티 노츠",
+      "투베로즈",
+      "프리지아",
+      "자스민",
+      "은방울꽃",
+      "오렌지 블라썸",
+      "프랄린",
+      "팝콘",
+      "바닐라",
+      "패출리"
+    ],
+    "accords": [
+      "스위트",
+      "바닐라",
+      "프루티",
+      "락토닉",
+      "패출리",
+      "화이트 플로럴",
+      "우디",
+      "너티"
+    ],
+    "keywords": [
+      "장난기 있는",
+      "젊은",
+      "사치스러운",
+      "기발한",
+      "밝은",
+      "봄날 외출",
+      "캐주얼 모임",
+      "친구와의 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.0,
+      "구르망": 0.625
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "하이어 에너지",
+    "english_name": "higher energy",
+    "normalized_name": "higher energy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/higher-energy",
+    "image_url": "https://img.fraganty.ai/perfume/234.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "하이어 에너지은 주니퍼 베리, 파인애플, 자몽, 멜론, 민트 노트가 중심이며 프레쉬 스파이시, 아로마틱, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "주니퍼 베리",
+      "파인애플",
+      "자몽",
+      "멜론",
+      "민트",
+      "페퍼",
+      "너트멕",
+      "인센스",
+      "시더우드",
+      "베티버",
+      "오크모스",
+      "샌달우드",
+      "머스크",
+      "라브다넘"
+    ],
+    "accords": [
+      "프레쉬 스파이시",
+      "아로마틱",
+      "우디",
+      "프루티",
+      "스위트",
+      "그린",
+      "시트러스",
+      "앰버"
+    ],
+    "keywords": [
+      "상쾌한",
+      "활기찬",
+      "자신감 있는",
+      "세련된",
+      "스포츠적인",
+      "야외 활동",
+      "캐주얼한 외출",
+      "여름 파티"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.5,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "하이어",
+    "english_name": "higher",
+    "normalized_name": "higher",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/higher",
+    "image_url": "https://img.fraganty.ai/perfume/233.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "하이어은 서양배, 바질, 레몬, 복숭아, 사이프러스 노트가 중심이며 아로마틱, 프레쉬 스파이시, 프루티 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "서양배",
+      "바질",
+      "레몬",
+      "복숭아",
+      "사이프러스",
+      "로즈마리",
+      "페퍼",
+      "카다멈",
+      "머스크",
+      "시더우드"
+    ],
+    "accords": [
+      "아로마틱",
+      "프레쉬 스파이시",
+      "프루티",
+      "우디",
+      "스위트",
+      "그린",
+      "시트러스",
+      "프레쉬"
+    ],
+    "keywords": [
+      "활기찬",
+      "세련된",
+      "상쾌한",
+      "자신감 있는",
+      "다가가기 쉬운",
+      "봄날 외출",
+      "여름 소풍",
+      "캐주얼한 사무실 복장"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.625,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "루즈 트라팔가",
+    "english_name": "rouge trafalgar",
+    "normalized_name": "rouge trafalgar",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/rouge-trafalgar",
+    "image_url": "https://img.fraganty.ai/perfume/58665.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "루즈 트라팔가은 라즈베리, 딸기, 체리, 만다린 오렌지, 블랙커런트 노트가 중심이며 프루티, 스위트, 시트러스 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라즈베리",
+      "딸기",
+      "체리",
+      "만다린 오렌지",
+      "블랙커런트",
+      "자몽",
+      "머스크",
+      "패출리"
+    ],
+    "accords": [
+      "프루티",
+      "스위트",
+      "시트러스",
+      "머스키",
+      "우디",
+      "체리",
+      "패출리",
+      "소프트 스파이시"
+    ],
+    "keywords": [
+      "장난기 있는",
+      "세련된",
+      "자신감 있는",
+      "흥미로운",
+      "따뜻한",
+      "봄날 외출",
+      "여름 소풍",
+      "캐주얼한 낮 시간의 이벤트"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.375
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 오 드 뚜왈렛 오리지널",
+    "english_name": "miss dior eau de toilette originale",
+    "normalized_name": "miss dior eau de toilette originale",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-eau-de-toilette-originale",
+    "image_url": "https://img.fraganty.ai/perfume/23282.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 오 드 뚜왈렛 오리지널은 갈바넘, 자스민, 패출리 노트가 중심이며 그린, 패출리, 화이트 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "갈바넘",
+      "자스민",
+      "패출리"
+    ],
+    "accords": [
+      "그린",
+      "패출리",
+      "화이트 플로럴",
+      "발삼",
+      "아로마틱",
+      "우디",
+      "웜 스파이시",
+      "어시"
+    ],
+    "keywords": [
+      "대담한",
+      "어스름한",
+      "복합적인",
+      "우아한",
+      "단호한",
+      "봄날 외출",
+      "가을 정원 파티",
+      "미술관 개관식"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 오리지널",
+    "english_name": "dior homme original",
+    "normalized_name": "dior homme original",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-original",
+    "image_url": "https://img.fraganty.ai/perfume/69010.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 오리지널은 아이리스, 카다멈, 베티버 노트가 중심이며 아이리스, 아로마틱, 어시(흙) 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "아이리스",
+      "카다멈",
+      "베티버"
+    ],
+    "accords": [
+      "아이리스",
+      "아로마틱",
+      "어시",
+      "웜 스파이시",
+      "우디",
+      "파우더리",
+      "바이올렛",
+      "그린"
+    ],
+    "keywords": [
+      "세련된",
+      "흙내음 나는",
+      "따뜻한",
+      "우아한",
+      "친밀한",
+      "겨울 낮",
+      "봄 낮",
+      "가을 낮"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트 오 센슈얼",
+    "english_name": "dior addict eau sensuelle",
+    "normalized_name": "dior addict eau sensuelle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict-eau-sensuelle",
+    "image_url": "https://img.fraganty.ai/perfume/15269.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트 오 센슈얼은 로즈, 자스민, 머스크, 시더우드 노트가 중심이며 로즈, 머스키, 화이트 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "로즈",
+      "자스민",
+      "머스크",
+      "시더우드"
+    ],
+    "accords": [
+      "로즈",
+      "머스키",
+      "화이트 플로럴",
+      "플로럴",
+      "파우더리",
+      "우디",
+      "애니멀릭",
+      "스위트"
+    ],
+    "keywords": [
+      "우아한",
+      "부드러운",
+      "로맨틱한",
+      "신선한",
+      "평온한",
+      "봄날 외출",
+      "캐주얼 브런치",
+      "오후 정원 파티"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.0,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "오 소바쥬 코롱",
+    "english_name": "eau sauvage cologne",
+    "normalized_name": "eau sauvage cologne",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eau-sauvage-cologne",
+    "image_url": "https://img.fraganty.ai/perfume/30854.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "오 소바쥬 코롱은 베르가못, 자몽, 만다린 오렌지, 페티그레인, 헤디온 노트가 중심이며 시트러스, 아로마틱, 그린 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "자몽",
+      "만다린 오렌지",
+      "페티그레인",
+      "헤디온",
+      "갈바넘",
+      "핑크 페퍼",
+      "베티버"
+    ],
+    "accords": [
+      "시트러스",
+      "아로마틱",
+      "그린",
+      "프레쉬 스파이시",
+      "우디",
+      "플로럴",
+      "어시",
+      "프레쉬"
+    ],
+    "keywords": [
+      "상쾌한",
+      "우아한",
+      "세련된",
+      "활력을 주는",
+      "시간을 초월한",
+      "봄날 외출",
+      "여름 소풍",
+      "캐주얼한 사무실 복장"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.625,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트 오 프레쉬 (2012)",
+    "english_name": "dior addict eau fraiche 2012",
+    "normalized_name": "dior addict eau fraiche 2012",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict-eau-fraiche-2012",
+    "image_url": "https://img.fraganty.ai/perfume/15268.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트 오 프레쉬 (2012)은 자몽, 베르가못, 연꽃, 석류, 프리지아 노트가 중심이며 시트러스, 플로럴, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자몽",
+      "베르가못",
+      "연꽃",
+      "석류",
+      "프리지아",
+      "머스크",
+      "우디 노츠"
+    ],
+    "accords": [
+      "시트러스",
+      "플로럴",
+      "프레쉬 스파이시",
+      "우디",
+      "머스키",
+      "아쿠아틱",
+      "아로마틱",
+      "프루티"
+    ],
+    "keywords": [
+      "상쾌한",
+      "활력을 주는",
+      "가벼운",
+      "우아한",
+      "상쾌하게 하는",
+      "여름 야외 활동",
+      "해변 요가",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.5,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "페브 델리슈 (2018)",
+    "english_name": "f ve d licieuse 2018",
+    "normalized_name": "f ve d licieuse 2018",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/f-ve-d-licieuse-2018",
+    "image_url": "https://img.fraganty.ai/perfume/48392.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "페브 델리슈 (2018)은 라벤더, 민트, 베르가못, 체리, 프리지아 노트가 중심이며 바닐라, 스위트, 앰버 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라벤더",
+      "민트",
+      "베르가못",
+      "체리",
+      "프리지아",
+      "자스민",
+      "톤카 빈",
+      "바닐라",
+      "카라멜",
+      "다크 초콜릿",
+      "코코넛",
+      "벤조인",
+      "레더",
+      "샌달우드",
+      "시더우드"
+    ],
+    "accords": [
+      "바닐라",
+      "스위트",
+      "앰버",
+      "카라멜",
+      "웜 스파이시",
+      "초콜릿",
+      "아로마틱",
+      "체리"
+    ],
+    "keywords": [
+      "편안한",
+      "사치스러운",
+      "세련된",
+      "따뜻한",
+      "매혹적인",
+      "겨울 밤",
+      "아늑한 모임",
+      "로맨틱한 저녁식사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.625
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 오 프레쉬",
+    "english_name": "miss dior eau fraiche",
+    "normalized_name": "miss dior eau fraiche",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-eau-fraiche",
+    "image_url": "https://img.fraganty.ai/perfume/14152.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 오 프레쉬은 시트러스, 베르가못, 갈바넘, 자스민, 가드니아 노트가 중심이며 시트러스, 화이트 플로럴, 패출리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "시트러스",
+      "베르가못",
+      "갈바넘",
+      "자스민",
+      "가드니아",
+      "패출리"
+    ],
+    "accords": [
+      "시트러스",
+      "화이트 플로럴",
+      "패출리",
+      "우디",
+      "그린",
+      "프레쉬",
+      "웜 스파이시",
+      "프레쉬 스파이시"
+    ],
+    "keywords": [
+      "상쾌한",
+      "장난기 있는",
+      "우아한",
+      "활기찬",
+      "젊은",
+      "야외 브런치",
+      "캐주얼한 외출",
+      "봄 소풍"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "퓨어 쁘아종 엘릭서",
+    "english_name": "pure poison elixir",
+    "normalized_name": "pure poison elixir",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/pure-poison-elixir",
+    "image_url": "https://img.fraganty.ai/perfume/796.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "퓨어 쁘아종 엘릭서은 자스민, 만다린 오렌지, 페티그레인, 베르가못, 오렌지 블라썸 노트가 중심이며 화이트 플로럴, 시트러스, 카카오 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자스민",
+      "만다린 오렌지",
+      "페티그레인",
+      "베르가못",
+      "오렌지 블라썸",
+      "가드니아",
+      "카카오",
+      "바닐라",
+      "앰버"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "시트러스",
+      "카카오",
+      "바닐라",
+      "스위트",
+      "앰버",
+      "웜 스파이시",
+      "애니멀릭"
+    ],
+    "keywords": [
+      "유혹적인",
+      "신비로운",
+      "대담한",
+      "취하는",
+      "호화로운",
+      "저녁 행사",
+      "로맨틱한 데이트",
+      "격식 있는 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.0,
+      "오리엔탈": 0.375,
+      "프레시": 0.125,
+      "구르망": 0.375
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쟈도르 브왈 드 파퓸",
+    "english_name": "j adore voile de parfum",
+    "normalized_name": "j adore voile de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/j-adore-voile-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/17513.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 쟈도르 브왈 드 파퓸은 로즈, 아이리스, 머스크 노트가 중심이며 아이리스, 파우더리, 머스키 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "로즈",
+      "아이리스",
+      "머스크"
+    ],
+    "accords": [
+      "아이리스",
+      "파우더리",
+      "머스키",
+      "로즈",
+      "바이올렛",
+      "어시",
+      "플로럴",
+      "우디"
+    ],
+    "keywords": [
+      "우아한",
+      "세련된",
+      "사색적인",
+      "편안한",
+      "정제된",
+      "봄날 외출",
+      "오후 티타임",
+      "캐주얼 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.625,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.0,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디오레센스",
+    "english_name": "dioressence",
+    "normalized_name": "dioressence",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dioressence",
+    "image_url": "https://img.fraganty.ai/perfume/225.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "디오레센스은 패출리, 그린 노츠, 알데하이드, 베르가못, 오렌지 노트가 중심이며 웜 스파이시, 우디, 어시(흙) 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "패출리",
+      "그린 노츠",
+      "알데하이드",
+      "베르가못",
+      "오렌지",
+      "프루티 노츠",
+      "시나몬",
+      "제라늄",
+      "카네이션",
+      "아이리스 뿌리",
+      "로즈",
+      "일랑일랑",
+      "자스민",
+      "바이올렛",
+      "투베로즈",
+      "오크모스",
+      "벤조인",
+      "스티락스",
+      "베티버",
+      "바닐라",
+      "머스크"
+    ],
+    "accords": [
+      "웜 스파이시",
+      "우디",
+      "어시",
+      "모시",
+      "아로마틱",
+      "앰버",
+      "그린",
+      "플로럴"
+    ],
+    "keywords": [
+      "대담한",
+      "안정된",
+      "복합적인",
+      "로맨틱한",
+      "빈티지한",
+      "겨울 외출",
+      "가을 저녁 모임",
+      "격식 있는 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "오 소바쥬 익스트림",
+    "english_name": "eau sauvage extreme",
+    "normalized_name": "eau sauvage extreme",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eau-sauvage-extreme",
+    "image_url": "https://img.fraganty.ai/perfume/232.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "오 소바쥬 익스트림은 레몬, 라벤더, 베르가못, 바질, 패출리 노트가 중심이며 아로마틱, 프레쉬 스파이시, 시트러스 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "레몬",
+      "라벤더",
+      "베르가못",
+      "바질",
+      "패출리",
+      "프루티 노츠",
+      "로즈마리",
+      "월계수 잎",
+      "코리앤더",
+      "샌달우드",
+      "알데하이드",
+      "자스민",
+      "아이리스 뿌리",
+      "오크모스",
+      "시더우드",
+      "머스크",
+      "앰버"
+    ],
+    "accords": [
+      "아로마틱",
+      "프레쉬 스파이시",
+      "시트러스",
+      "우디",
+      "라벤더",
+      "어시",
+      "파우더리",
+      "모시"
+    ],
+    "keywords": [
+      "자신감 넘치는",
+      "대담한",
+      "세련된",
+      "상쾌한",
+      "향수를 불러일으키는",
+      "봄날 외출",
+      "캐주얼 비즈니스 미팅",
+      "저녁 사교 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.375,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "오 느와르",
+    "english_name": "eau noire",
+    "normalized_name": "eau noire",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eau-noire",
+    "image_url": "https://img.fraganty.ai/perfume/1378.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "오 느와르은 타임, 세이지, 라벤더, 커피, 임모르텔 노트가 중심이며 아로마틱, 소프트 스파이시, 라벤더 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "타임",
+      "세이지",
+      "라벤더",
+      "커피",
+      "임모르텔",
+      "시더우드",
+      "사프란",
+      "감초",
+      "바닐라",
+      "바이올렛",
+      "레더",
+      "줄기 그린"
+    ],
+    "accords": [
+      "아로마틱",
+      "소프트 스파이시",
+      "라벤더",
+      "허벌",
+      "커피",
+      "스위트",
+      "웜 스파이시",
+      "프레쉬 스파이시"
+    ],
+    "keywords": [
+      "실험적",
+      "흥미로운",
+      "어두운",
+      "복합적인",
+      "따뜻한",
+      "저녁 모임",
+      "친밀한 저녁식사",
+      "아늑한 밤 시간"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.375,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 에센스",
+    "english_name": "miss dior essence",
+    "normalized_name": "miss dior essence",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-essence",
+    "image_url": "https://img.fraganty.ai/perfume/112972.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 에센스은 블랙베리, 엘더플라워, 자스민, 우디 노츠, 오크 노트가 중심이며 프루티, 우디, 스위트 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "블랙베리",
+      "엘더플라워",
+      "자스민",
+      "우디 노츠",
+      "오크"
+    ],
+    "accords": [
+      "프루티",
+      "우디",
+      "스위트",
+      "화이트 플로럴",
+      "플로럴",
+      "바이올렛",
+      "로즈",
+      "사워"
+    ],
+    "keywords": [
+      "세련된",
+      "사치스러운",
+      "음침한",
+      "정제된",
+      "따뜻한",
+      "봄날 외출",
+      "겨울 오후 티타임",
+      "가을 저녁 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.125,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 쉐리 블루밍 부케 (2007)",
+    "english_name": "miss dior cherie blooming bouquet 2007",
+    "normalized_name": "miss dior cherie blooming bouquet 2007",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-cherie-blooming-bouquet-2007",
+    "image_url": "https://img.fraganty.ai/perfume/3738.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 쉐리 블루밍 부케 (2007)은 만다린 오렌지, 작약, 머스크 노트가 중심이며 플로럴, 프레쉬, 로즈 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "만다린 오렌지",
+      "작약",
+      "머스크"
+    ],
+    "accords": [
+      "플로럴",
+      "프레쉬",
+      "로즈",
+      "머스키",
+      "시트러스",
+      "파우더리",
+      "스위트",
+      "프루티"
+    ],
+    "keywords": [
+      "우아한",
+      "신선한",
+      "로맨틱한",
+      "섬세한",
+      "장난기 있는",
+      "봄날 외출",
+      "친구들과의 브런치",
+      "캐주얼 데이트"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "사쿠라",
+    "english_name": "sakura",
+    "normalized_name": "sakura",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/sakura",
+    "image_url": "https://img.fraganty.ai/perfume/48379.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "사쿠라은 그린 노츠, 벚꽃, 로즈, 자스민, 헤디온 노트가 중심이며 플로럴, 파우더리, 프레쉬 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "그린 노츠",
+      "벚꽃",
+      "로즈",
+      "자스민",
+      "헤디온",
+      "머스크",
+      "미모사",
+      "바이올렛"
+    ],
+    "accords": [
+      "플로럴",
+      "파우더리",
+      "프레쉬",
+      "그린",
+      "로즈",
+      "머스키",
+      "바이올렛",
+      "옐로우 플로럴"
+    ],
+    "keywords": [
+      "우아한",
+      "로맨틱한",
+      "신선한",
+      "향수 어린",
+      "세련된",
+      "봄날 외출",
+      "정원 파티",
+      "캐주얼한 낮 착용"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.625,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쟈도르 압솔뤼",
+    "english_name": "j adore absolu",
+    "normalized_name": "j adore absolu",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/j-adore-absolu",
+    "image_url": "https://img.fraganty.ai/perfume/51818.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 쟈도르 압솔뤼은 자스민, 목련, 투베로즈, 로즈, 오렌지 블라썸 노트가 중심이며 화이트 플로럴, 플로럴, 투베로즈 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자스민",
+      "목련",
+      "투베로즈",
+      "로즈",
+      "오렌지 블라썸"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "플로럴",
+      "투베로즈",
+      "시트러스",
+      "로즈",
+      "애니멀릭",
+      "스위트",
+      "그린"
+    ],
+    "keywords": [
+      "호화로운",
+      "자신감 넘치는",
+      "로맨틱한",
+      "감각적인",
+      "풍부한",
+      "봄날 외출",
+      "우아한 저녁 행사",
+      "데이트 나이트"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "포에버 앤 에버",
+    "english_name": "forever and ever",
+    "normalized_name": "forever and ever",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/forever-and-ever",
+    "image_url": "https://img.fraganty.ai/perfume/1244.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "포에버 앤 에버은 프리지아, 자스민, 아이비, 로즈, 아몬드 블라썸 노트가 중심이며 플로럴, 로즈, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "프리지아",
+      "자스민",
+      "아이비",
+      "로즈",
+      "아몬드 블라썸",
+      "제라늄",
+      "너트멕",
+      "머스크",
+      "바닐라"
+    ],
+    "accords": [
+      "플로럴",
+      "로즈",
+      "프레쉬 스파이시",
+      "화이트 플로럴",
+      "아로마틱",
+      "머스키",
+      "그린",
+      "스위트"
+    ],
+    "keywords": [
+      "우아한",
+      "신선한",
+      "로맨틱한",
+      "세련된",
+      "편안한",
+      "봄날 외출",
+      "캐주얼한 낮 시간의 이벤트",
+      "친구들과의 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.375,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "자스민 데 장쥬",
+    "english_name": "jasmin des anges",
+    "normalized_name": "jasmin des anges",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/jasmin-des-anges",
+    "image_url": "https://img.fraganty.ai/perfume/48383.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "자스민 데 장쥬은 베르가못, 자스민, 살구, 복숭아, 오스만투스(금목서) 노트가 중심이며 프루티, 화이트 플로럴, 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "자스민",
+      "살구",
+      "복숭아",
+      "오스만투스(금목서)",
+      "머스크",
+      "바닐라"
+    ],
+    "accords": [
+      "프루티",
+      "화이트 플로럴",
+      "플로럴",
+      "파우더리",
+      "락토닉",
+      "스위트",
+      "머스키",
+      "바닐라"
+    ],
+    "keywords": [
+      "즐거운",
+      "세련된",
+      "상쾌한",
+      "우아한",
+      "편안한",
+      "봄 소풍",
+      "주간 외출",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.0,
+      "구르망": 0.5
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 디오리시모 오 드 뚜왈렛",
+    "english_name": "les creations de monsieur dior diorissimo eau de toilette",
+    "normalized_name": "les creations de monsieur dior diorissimo eau de toilette",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/les-creations-de-monsieur-dior-diorissimo-eau-de-toilette",
+    "image_url": "https://img.fraganty.ai/perfume/7369.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "디올 디오리시모 오 드 뚜왈렛은 일랑일랑, 은방울꽃, 자스민 노트가 중심이며 화이트 플로럴, 프레쉬, 그린 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "일랑일랑",
+      "은방울꽃",
+      "자스민"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "프레쉬",
+      "그린",
+      "옐로우 플로럴",
+      "플로럴",
+      "소피",
+      "스위트",
+      "우디"
+    ],
+    "keywords": [
+      "우아한",
+      "신선한",
+      "즐거운",
+      "섬세한",
+      "자신감 있는",
+      "봄날 외출",
+      "정원 파티",
+      "캐주얼한 낮 시간 이벤트"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 오 드 뚜왈렛 (2019)",
+    "english_name": "miss dior eau de toilette 2019",
+    "normalized_name": "miss dior eau de toilette 2019",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-eau-de-toilette-2019",
+    "image_url": "https://img.fraganty.ai/perfume/53144.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 오 드 뚜왈렛 (2019)은 블러드 오렌지, 만다린 오렌지, 로즈, 은방울꽃, 패출리 노트가 중심이며 시트러스, 로즈, 패출리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "블러드 오렌지",
+      "만다린 오렌지",
+      "로즈",
+      "은방울꽃",
+      "패출리"
+    ],
+    "accords": [
+      "시트러스",
+      "로즈",
+      "패출리",
+      "우디",
+      "웜 스파이시",
+      "화이트 플로럴",
+      "어시",
+      "플로럴"
+    ],
+    "keywords": [
+      "낙관적인",
+      "걱정 없는",
+      "신선한",
+      "우아한",
+      "장난기 있는",
+      "봄날 외출",
+      "캐주얼한 브런치",
+      "정원 파티"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.375,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "화씨 코롱",
+    "english_name": "fahrenheit cologne",
+    "normalized_name": "fahrenheit cologne",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/fahrenheit-cologne",
+    "image_url": "https://img.fraganty.ai/perfume/34582.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "화씨 코롱은 베르가못, 만다린 오렌지, 레몬, 바이올렛, 패출리 노트가 중심이며 시트러스, 우디, 바이올렛 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "만다린 오렌지",
+      "레몬",
+      "바이올렛",
+      "패출리",
+      "베티버",
+      "너트멕",
+      "시더우드",
+      "캐러웨이"
+    ],
+    "accords": [
+      "시트러스",
+      "우디",
+      "바이올렛",
+      "프레쉬 스파이시",
+      "아로마틱",
+      "파우더리",
+      "플로럴",
+      "어시"
+    ],
+    "keywords": [
+      "상쾌한",
+      "우아한",
+      "활력을 주는",
+      "향수를 불러일으키는",
+      "친근한",
+      "캐주얼한 외출",
+      "해변 휴가",
+      "야외 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "그리 몽테뉴",
+    "english_name": "gris montaigne",
+    "normalized_name": "gris montaigne",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/gris-montaigne",
+    "image_url": "https://img.fraganty.ai/perfume/17842.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "그리 몽테뉴은 베르가못, 자몽, 로즈, 딸기, 자스민 노트가 중심이며 우디, 어시(흙), 패출리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "자몽",
+      "로즈",
+      "딸기",
+      "자스민",
+      "오렌지 블라썸",
+      "일랑일랑",
+      "패출리",
+      "오크모스",
+      "샌달우드",
+      "앰버",
+      "시더우드",
+      "머스크"
+    ],
+    "accords": [
+      "우디",
+      "어시",
+      "패출리",
+      "모시",
+      "로즈",
+      "시트러스",
+      "웜 스파이시",
+      "파우더리"
+    ],
+    "keywords": [
+      "세련된",
+      "흙내음 나는",
+      "로맨틱한",
+      "복합적인",
+      "따뜻한",
+      "봄날 외출",
+      "가을 오후 티타임",
+      "캐주얼 데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.5,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "쁘아종 에스쁘리 드 파퓸",
+    "english_name": "poison esprit de parfum",
+    "normalized_name": "poison esprit de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/poison-esprit-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/34811.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "쁘아종 에스쁘리 드 파퓸은 자두, 산딸기류, 아니스, 팔리산더 로즈우드, 코리앤더 노트가 중심이며 앰버, 웜 스파이시, 스위트 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자두",
+      "산딸기류",
+      "아니스",
+      "팔리산더 로즈우드",
+      "코리앤더",
+      "페퍼",
+      "투베로즈",
+      "꿀",
+      "인센스",
+      "정향",
+      "시나몬",
+      "오포포낙스",
+      "로즈",
+      "자스민",
+      "오렌지 블라썸",
+      "앰버",
+      "바닐라",
+      "머스크",
+      "헬리오트로프",
+      "샌달우드",
+      "베티버",
+      "시더우드"
+    ],
+    "accords": [
+      "앰버",
+      "웜 스파이시",
+      "스위트",
+      "우디",
+      "프루티",
+      "화이트 플로럴",
+      "파우더리",
+      "투베로즈"
+    ],
+    "keywords": [
+      "유혹적인",
+      "사치스러운",
+      "신비로운",
+      "따뜻한",
+      "강렬한",
+      "겨울 저녁 모임",
+      "로맨틱한 데이트",
+      "격식 있는 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.0,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "에덴 록",
+    "english_name": "eden roc",
+    "normalized_name": "eden roc",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eden-roc",
+    "image_url": "https://img.fraganty.ai/perfume/66856.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "에덴 록은 소금, 미네랄 노츠, 시트러스, 자스민, 코코넛 노트가 중심이며 미네랄, 솔티, 화이트 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "소금",
+      "미네랄 노츠",
+      "시트러스",
+      "자스민",
+      "코코넛",
+      "매스틱",
+      "소나무",
+      "라브다넘"
+    ],
+    "accords": [
+      "미네랄",
+      "솔티",
+      "화이트 플로럴",
+      "시트러스",
+      "우디",
+      "아로마틱",
+      "코코넛",
+      "마린"
+    ],
+    "keywords": [
+      "상쾌한",
+      "모험적인",
+      "세련된",
+      "천상의",
+      "향수를 자극하는",
+      "해변에서의 하루",
+      "여름 파티",
+      "캐주얼 외출"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.625,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미짜",
+    "english_name": "la collection couturier parfumeur mitzah",
+    "normalized_name": "la collection couturier parfumeur mitzah",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/la-collection-couturier-parfumeur-mitzah",
+    "image_url": "https://img.fraganty.ai/perfume/10629.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "미짜은 코리앤더, 카다멈, 시나몬, 로즈, 인센스 노트가 중심이며 앰버, 웜 스파이시, 발삼 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "코리앤더",
+      "카다멈",
+      "시나몬",
+      "로즈",
+      "인센스",
+      "라브다넘",
+      "꿀",
+      "패출리",
+      "앰버",
+      "바닐라"
+    ],
+    "accords": [
+      "앰버",
+      "웜 스파이시",
+      "발삼",
+      "스모키",
+      "시나몬",
+      "허니",
+      "우디",
+      "아로마틱"
+    ],
+    "keywords": [
+      "우아한",
+      "세련된",
+      "따뜻한",
+      "신비로운",
+      "자신감 있는",
+      "겨울 저녁 모임",
+      "격식 있는 행사",
+      "친밀한 저녁 식사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.5,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "발라드 소바쥬",
+    "english_name": "balade sauvage",
+    "normalized_name": "balade sauvage",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/balade-sauvage",
+    "image_url": "https://img.fraganty.ai/perfume/48398.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "발라드 소바쥬은 베르가못, 오조닉 노츠, 페티그레인, 무화과 나무, 무화과 노트가 중심이며 우디, 시트러스, 프루티 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "오조닉 노츠",
+      "페티그레인",
+      "무화과 나무",
+      "무화과",
+      "솔라 노츠",
+      "오렌지 블라썸",
+      "헤디온",
+      "해수",
+      "로즈",
+      "복숭아",
+      "조약돌",
+      "앰버우드",
+      "라브다넘",
+      "바닐라"
+    ],
+    "accords": [
+      "우디",
+      "시트러스",
+      "프루티",
+      "아로마틱",
+      "그린",
+      "스위트",
+      "화이트 플로럴",
+      "오조닉"
+    ],
+    "keywords": [
+      "상쾌한",
+      "세련된",
+      "자연스러운",
+      "밝은",
+      "평온한",
+      "해변 데이",
+      "캐주얼 외출",
+      "소풍"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.5,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "뀌르 까나쥬",
+    "english_name": "cuir cannage",
+    "normalized_name": "cuir cannage",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/cuir-cannage",
+    "image_url": "https://img.fraganty.ai/perfume/25228.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "뀌르 까나쥬은 일랑일랑, 오렌지 블라썸, 베르가못, 레더, 아이리스 노트가 중심이며 레더, 우디, 스모키 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "일랑일랑",
+      "오렌지 블라썸",
+      "베르가못",
+      "레더",
+      "아이리스",
+      "자스민",
+      "로즈",
+      "자작나무",
+      "타바코",
+      "주니퍼",
+      "바이올렛",
+      "케이드 오일"
+    ],
+    "accords": [
+      "레더",
+      "우디",
+      "스모키",
+      "아이리스",
+      "화이트 플로럴",
+      "애니멀릭",
+      "파우더리",
+      "바이올렛"
+    ],
+    "keywords": [
+      "대담한",
+      "도발적인",
+      "세련된",
+      "신비로운",
+      "강렬한",
+      "격식 있는 행사",
+      "저녁 모임",
+      "데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.25,
+      "오리엔탈": 0.25,
+      "프레시": 0.0,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트 오 프레쉬 (2004)",
+    "english_name": "dior addict eau fraiche 2004",
+    "normalized_name": "dior addict eau fraiche 2004",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict-eau-fraiche-2004",
+    "image_url": "https://img.fraganty.ai/perfume/216.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트 오 프레쉬 (2004)은 오렌지 블라썸, 페티그레인, 만다린 오렌지, 바닐라, 오렌지 노트가 중심이며 시트러스, 화이트 플로럴, 바닐라 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "오렌지 블라썸",
+      "페티그레인",
+      "만다린 오렌지",
+      "바닐라",
+      "오렌지",
+      "베르가못",
+      "가드니아",
+      "투베로즈",
+      "프리지아",
+      "자스민",
+      "로즈",
+      "톤카 빈",
+      "브라질리언 로즈우드",
+      "샌달우드"
+    ],
+    "accords": [
+      "시트러스",
+      "화이트 플로럴",
+      "바닐라",
+      "스위트",
+      "우디",
+      "플로럴",
+      "아로마틱",
+      "그린"
+    ],
+    "keywords": [
+      "상쾌한",
+      "우아한",
+      "향수 어린",
+      "매력적인",
+      "세련된",
+      "봄날 외출",
+      "여름 브런치",
+      "캐주얼한 낮 시간 이벤트"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쟈도르 로르 (2017)",
+    "english_name": "j adore l or 2017",
+    "normalized_name": "j adore l or 2017",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/j-adore-l-or-2017",
+    "image_url": "https://img.fraganty.ai/perfume/47398.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 쟈도르 로르 (2017)은 자스민, 일랑일랑, 투베로즈, 로즈, 바닐라 노트가 중심이며 화이트 플로럴, 바닐라, 옐로우 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자스민",
+      "일랑일랑",
+      "투베로즈",
+      "로즈",
+      "바닐라",
+      "톤카 빈"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "바닐라",
+      "옐로우 플로럴",
+      "스위트",
+      "투베로즈",
+      "로즈",
+      "플로럴",
+      "우디"
+    ],
+    "keywords": [
+      "우아한",
+      "호화로운",
+      "로맨틱한",
+      "따뜻한",
+      "세련된",
+      "저녁 행사",
+      "격식 있는 모임",
+      "데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.625,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.0,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "뉴 룩 (2024)",
+    "english_name": "new look 2024",
+    "normalized_name": "new look 2024",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/new-look-2024",
+    "image_url": "https://img.fraganty.ai/perfume/88939.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "뉴 룩 (2024)은 알데하이드, 올리바넘, 앰버 노트가 중심이며 앰버, 알데하이드, 프레쉬 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "알데하이드",
+      "올리바넘",
+      "앰버"
+    ],
+    "accords": [
+      "앰버",
+      "알데하이드",
+      "프레쉬",
+      "프레쉬 스파이시",
+      "소피",
+      "웜 스파이시",
+      "우디",
+      "발삼"
+    ],
+    "keywords": [
+      "세련된",
+      "사색적인",
+      "빛나는",
+      "따뜻한",
+      "영원한",
+      "격식 있는 행사",
+      "주간 외출",
+      "봄 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.125,
+      "오리엔탈": 0.375,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "어딕트 투 라이프",
+    "english_name": "addict to life",
+    "normalized_name": "addict to life",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/addict-to-life",
+    "image_url": "https://img.fraganty.ai/perfume/12109.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "어딕트 투 라이프은 라즈베리, 복숭아, 석류, 로즈, 은방울꽃 노트가 중심이며 화이트 플로럴, 로즈, 프루티 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라즈베리",
+      "복숭아",
+      "석류",
+      "로즈",
+      "은방울꽃",
+      "자스민",
+      "머스크",
+      "시더우드"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "로즈",
+      "프루티",
+      "스위트",
+      "머스키",
+      "플로럴",
+      "우디",
+      "프레쉬"
+    ],
+    "keywords": [
+      "즐거운",
+      "낙관적인",
+      "신선한",
+      "우아한",
+      "감각적인",
+      "봄 소풍",
+      "여름 외출",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "오드 로즈우드",
+    "english_name": "oud rosewood",
+    "normalized_name": "oud rosewood",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/oud-rosewood",
+    "image_url": "https://img.fraganty.ai/perfume/60318.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "오드 로즈우드은 라즈베리, 모과, 샌달우드, 애니멀 노츠, 침향(오드) 노트가 중심이며 우디, 오드, 프루티 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라즈베리",
+      "모과",
+      "샌달우드",
+      "애니멀 노츠",
+      "침향(오드)",
+      "팔리산더 로즈우드"
+    ],
+    "accords": [
+      "우디",
+      "오드",
+      "프루티",
+      "스위트",
+      "애니멀릭",
+      "웜 스파이시",
+      "앰버",
+      "발삼"
+    ],
+    "keywords": [
+      "세련된",
+      "도발적인",
+      "따뜻한",
+      "친밀한",
+      "호화로운",
+      "겨울 저녁 모임",
+      "가을 데이트 밤",
+      "격식 있는 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.5,
+      "프레시": 0.0,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 쉐리 블루밍 부케 (2011)",
+    "english_name": "miss dior cherie blooming bouquet 2011",
+    "normalized_name": "miss dior cherie blooming bouquet 2011",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-cherie-blooming-bouquet-2011",
+    "image_url": "https://img.fraganty.ai/perfume/13143.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 쉐리 블루밍 부케 (2011)은 시트러스, 오렌지, 작약, 로즈, 머스크 노트가 중심이며 로즈, 플로럴, 시트러스 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "시트러스",
+      "오렌지",
+      "작약",
+      "로즈",
+      "머스크",
+      "패출리"
+    ],
+    "accords": [
+      "로즈",
+      "플로럴",
+      "시트러스",
+      "프레쉬",
+      "머스키",
+      "패출리",
+      "우디",
+      "프레쉬 스파이시"
+    ],
+    "keywords": [
+      "신선한",
+      "낙관적인",
+      "우아한",
+      "장난스러운",
+      "세련된",
+      "봄날 외출",
+      "캐주얼 브런치",
+      "정원 파티"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "오 드 돌체 비타",
+    "english_name": "eau de dolce vita",
+    "normalized_name": "eau de dolce vita",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eau-de-dolce-vita",
+    "image_url": "https://img.fraganty.ai/perfume/2578.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "오 드 돌체 비타은 자몽, 베르가못, 만다린 오렌지, 작약, 프리지아 노트가 중심이며 플로럴, 시트러스, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자몽",
+      "베르가못",
+      "만다린 오렌지",
+      "작약",
+      "프리지아",
+      "페퍼",
+      "자스민",
+      "헤디온",
+      "오스만투스(금목서)",
+      "샌달우드",
+      "바닐라",
+      "머스크"
+    ],
+    "accords": [
+      "플로럴",
+      "시트러스",
+      "프레쉬 스파이시",
+      "프레쉬",
+      "프루티",
+      "우디",
+      "파우더리",
+      "화이트 플로럴"
+    ],
+    "keywords": [
+      "낙관적인",
+      "상쾌한",
+      "우아한",
+      "장난기 있는",
+      "세련된",
+      "봄날 외출",
+      "여름 소풍",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.125,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "보아 탈리스만",
+    "english_name": "bois talisman",
+    "normalized_name": "bois talisman",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/bois-talisman",
+    "image_url": "https://img.fraganty.ai/perfume/100813.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "보아 탈리스만은 바닐라, 설탕, 연기, 시더우드 노트가 중심이며 바닐라, 스모키, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "바닐라",
+      "설탕",
+      "연기",
+      "시더우드"
+    ],
+    "accords": [
+      "바닐라",
+      "스모키",
+      "우디",
+      "스위트",
+      "파우더리",
+      "발삼",
+      "소프트 스파이시",
+      "아로마틱"
+    ],
+    "keywords": [
+      "유혹적인",
+      "복합적인",
+      "세련된",
+      "따뜻한",
+      "신비로운",
+      "겨울 밤",
+      "친밀한 모임",
+      "저녁 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.25,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 디오리시모 오 드 퍼퓸",
+    "english_name": "les creations de monsieur dior diorissimo eau de parfum",
+    "normalized_name": "les creations de monsieur dior diorissimo eau de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/les-creations-de-monsieur-dior-diorissimo-eau-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/7370.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "디올 디오리시모 오 드 퍼퓸은 은방울꽃, 자스민, 머스크 노트가 중심이며 화이트 플로럴, 프레쉬, 그린 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "은방울꽃",
+      "자스민",
+      "머스크"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "프레쉬",
+      "그린",
+      "머스키",
+      "플로럴",
+      "소피",
+      "파우더리",
+      "애니멀릭"
+    ],
+    "keywords": [
+      "우아한",
+      "신선한",
+      "순수한",
+      "편안한",
+      "세련된",
+      "봄날 외출",
+      "정원 파티",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "라 콜르 느와르 (2018)",
+    "english_name": "la colle noire 2018",
+    "normalized_name": "la colle noire 2018",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/la-colle-noire-2018",
+    "image_url": "https://img.fraganty.ai/perfume/48393.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "라 콜르 느와르 (2018)은 블랙커런트, 레몬, 로즈, 작약, 라즈베리 노트가 중심이며 로즈, 플로럴, 프루티 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "블랙커런트",
+      "레몬",
+      "로즈",
+      "작약",
+      "라즈베리",
+      "은방울꽃",
+      "복숭아",
+      "머스크",
+      "침향(오드)",
+      "꿀",
+      "샌달우드",
+      "앰버우드"
+    ],
+    "accords": [
+      "로즈",
+      "플로럴",
+      "프루티",
+      "프레쉬",
+      "스위트",
+      "화이트 플로럴",
+      "머스키",
+      "시트러스"
+    ],
+    "keywords": [
+      "자신감 넘치는",
+      "활기찬",
+      "여성스러운",
+      "신선한",
+      "풍부한",
+      "봄 정원 파티",
+      "주간 외출",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "떼 까슈미르",
+    "english_name": "the cachemire",
+    "normalized_name": "the cachemire",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/the-cachemire",
+    "image_url": "https://img.fraganty.ai/perfume/48371.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "떼 까슈미르은 페티그레인, 베르가못, 레몬, 비터 오렌지, 차 노트가 중심이며 시트러스, 그린, 아로마틱 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "페티그레인",
+      "베르가못",
+      "레몬",
+      "비터 오렌지",
+      "차",
+      "헤디온",
+      "인동초",
+      "목련",
+      "블랙커런트",
+      "로즈",
+      "마테",
+      "머스크",
+      "이소 이 슈퍼",
+      "연기",
+      "아이리스 뿌리"
+    ],
+    "accords": [
+      "시트러스",
+      "그린",
+      "아로마틱",
+      "프레쉬",
+      "우디",
+      "머스키",
+      "플로럴",
+      "프레쉬 스파이시"
+    ],
+    "keywords": [
+      "상쾌한",
+      "명상적인",
+      "세련된",
+      "플로럴한",
+      "시트러스한",
+      "봄날 외출",
+      "캐주얼 브런치",
+      "정원 파티"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.625,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "라 콜르 느와르",
+    "english_name": "la colle noire",
+    "normalized_name": "la colle noire",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/la-colle-noire",
+    "image_url": "https://img.fraganty.ai/perfume/38153.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "라 콜르 느와르은 레몬, 로즈, 작약, 스파이시 노츠, 은방울꽃 노트가 중심이며 로즈, 플로럴, 파우더리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "레몬",
+      "로즈",
+      "작약",
+      "스파이시 노츠",
+      "은방울꽃",
+      "블랙커런트",
+      "라즈베리",
+      "복숭아",
+      "머스크",
+      "앰버",
+      "샌달우드",
+      "헬리오트로프",
+      "침향(오드)"
+    ],
+    "accords": [
+      "로즈",
+      "플로럴",
+      "파우더리",
+      "프레쉬",
+      "머스키",
+      "프루티",
+      "웜 스파이시",
+      "우디"
+    ],
+    "keywords": [
+      "로맨틱",
+      "부드러운",
+      "향수 어린",
+      "신선한",
+      "우아한",
+      "봄날 외출",
+      "정원 파티",
+      "캐주얼한 낮 착용"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.125,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디오렐라",
+    "english_name": "les creations de monsieur dior diorella",
+    "normalized_name": "les creations de monsieur dior diorella",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/les-creations-de-monsieur-dior-diorella",
+    "image_url": "https://img.fraganty.ai/perfume/7372.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "디오렐라은 레몬, 인동초, 베티버 노트가 중심이며 시트러스, 화이트 플로럴, 아로마틱 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "레몬",
+      "인동초",
+      "베티버"
+    ],
+    "accords": [
+      "시트러스",
+      "화이트 플로럴",
+      "아로마틱",
+      "프루티",
+      "우디",
+      "어시",
+      "옐로우 플로럴",
+      "프레쉬"
+    ],
+    "keywords": [
+      "세련된",
+      "상쾌한",
+      "우아한",
+      "활력을 주는",
+      "자연적인",
+      "봄날 외출",
+      "여름 정원 파티",
+      "캐주얼한 낮 시간의 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.125
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "루즈 트라팔가 에스쁘리 드 파퓸",
+    "english_name": "rouge trafalgar esprit de parfum",
+    "normalized_name": "rouge trafalgar esprit de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/rouge-trafalgar-esprit-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/95983.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "루즈 트라팔가 에스쁘리 드 파퓸은 체리, 핑크 페퍼, 로즈, 레드 프루츠 노트가 중심이며 프루티, 스위트, 체리 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "체리",
+      "핑크 페퍼",
+      "로즈",
+      "레드 프루츠"
+    ],
+    "accords": [
+      "프루티",
+      "스위트",
+      "체리",
+      "로즈",
+      "소프트 스파이시",
+      "프레쉬",
+      "너티",
+      "플로럴"
+    ],
+    "keywords": [
+      "즐거운",
+      "로맨틱한",
+      "세련된",
+      "상쾌한",
+      "자신감 있는",
+      "저녁 외출",
+      "봄 정원 파티",
+      "데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.5
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "쥴스",
+    "english_name": "jules",
+    "normalized_name": "jules",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/jules",
+    "image_url": "https://img.fraganty.ai/perfume/1243.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "쥴스은 라벤더, 아르테미시아, 캐러웨이, 베르가못, 카네이션 노트가 중심이며 아로마틱, 프레쉬 스파이시, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "라벤더",
+      "아르테미시아",
+      "캐러웨이",
+      "베르가못",
+      "카네이션",
+      "로즈",
+      "바질",
+      "시더우드",
+      "시클라멘",
+      "샌달우드",
+      "자스민",
+      "오크모스",
+      "레더",
+      "전나무",
+      "머스크",
+      "앰버",
+      "톤카 빈"
+    ],
+    "accords": [
+      "아로마틱",
+      "프레쉬 스파이시",
+      "우디",
+      "모시",
+      "플로럴",
+      "레더",
+      "허벌",
+      "어시"
+    ],
+    "keywords": [
+      "세련된",
+      "단호한",
+      "흙내음 나는",
+      "향수 어린",
+      "복합적인",
+      "겨울 낮",
+      "봄 나들이",
+      "가을 저녁"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.125,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디오레센스",
+    "english_name": "les creations de monsieur dior dioressence",
+    "normalized_name": "les creations de monsieur dior dioressence",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/les-creations-de-monsieur-dior-dioressence",
+    "image_url": "https://img.fraganty.ai/perfume/7371.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "디오레센스은 제라늄, 시나몬, 패출리 노트가 중심이며 웜 스파이시, 패출리, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "제라늄",
+      "시나몬",
+      "패출리"
+    ],
+    "accords": [
+      "웜 스파이시",
+      "패출리",
+      "프레쉬 스파이시",
+      "시나몬",
+      "아로마틱",
+      "우디",
+      "로즈",
+      "어시"
+    ],
+    "keywords": [
+      "강렬한",
+      "따뜻한",
+      "도발적인",
+      "세련된",
+      "허브 향의",
+      "가을 모임",
+      "저녁 행사",
+      "캐주얼한 외출"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "아이 러브 디올",
+    "english_name": "i love dior",
+    "normalized_name": "i love dior",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/i-love-dior",
+    "image_url": "https://img.fraganty.ai/perfume/1382.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "아이 러브 디올은 목련, 프리지아, 만다린 오렌지, 비터 오렌지, 오렌지 노트가 중심이며 화이트 플로럴, 프루티, 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "목련",
+      "프리지아",
+      "만다린 오렌지",
+      "비터 오렌지",
+      "오렌지",
+      "은방울꽃",
+      "서양배",
+      "인동초",
+      "로즈",
+      "백합",
+      "라즈베리",
+      "블랙커런트",
+      "머스크",
+      "시더우드",
+      "앰버"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "프루티",
+      "플로럴",
+      "시트러스",
+      "프레쉬",
+      "스위트",
+      "로즈",
+      "그린"
+    ],
+    "keywords": [
+      "즐거운",
+      "상쾌한",
+      "세련된",
+      "기분 좋은",
+      "여성스러운",
+      "봄날 외출",
+      "여름 소풍",
+      "캐주얼한 낮 이벤트"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.0,
+      "프레시": 0.375,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 블루밍 부케 롤러 펄",
+    "english_name": "miss dior blooming bouquet roller pearl",
+    "normalized_name": "miss dior blooming bouquet roller pearl",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-blooming-bouquet-roller-pearl",
+    "image_url": "https://img.fraganty.ai/perfume/48407.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 블루밍 부케 롤러 펄은 베르가못, 만다린 오렌지, 작약, 로즈, 복숭아 노트가 중심이며 플로럴, 로즈, 시트러스 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "만다린 오렌지",
+      "작약",
+      "로즈",
+      "복숭아",
+      "살구",
+      "머스크"
+    ],
+    "accords": [
+      "플로럴",
+      "로즈",
+      "시트러스",
+      "프레쉬",
+      "프루티",
+      "파우더리",
+      "머스키",
+      "스위트"
+    ],
+    "keywords": [
+      "우아한",
+      "여성스러운",
+      "신선한",
+      "섬세한",
+      "장난기 있는",
+      "봄날 외출",
+      "정원 파티",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "앙브르 뉘 에스쁘리 드 파퓸",
+    "english_name": "ambre nuit esprit de parfum",
+    "normalized_name": "ambre nuit esprit de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/ambre-nuit-esprit-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/95986.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "앙브르 뉘 에스쁘리 드 파퓸은 시나몬, 카다멈, 스파이시 노츠, 앰버, 머스크 노트가 중심이며 웜 스파이시, 앰버, 시나몬 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "시나몬",
+      "카다멈",
+      "스파이시 노츠",
+      "앰버",
+      "머스크"
+    ],
+    "accords": [
+      "웜 스파이시",
+      "앰버",
+      "시나몬",
+      "머스키",
+      "파우더리",
+      "애니멀릭",
+      "아로마틱",
+      "소프트 스파이시"
+    ],
+    "keywords": [
+      "우아한",
+      "친밀한",
+      "따뜻한",
+      "세련된",
+      "편안한",
+      "겨울 저녁 모임",
+      "로맨틱한 데이트",
+      "격식 있는 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "125ml",
+    "family": "오리엔탈",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.0,
+      "오리엔탈": 0.75,
+      "프레시": 0.125,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "리멤버 미",
+    "english_name": "remember me",
+    "normalized_name": "remember me",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/remember-me",
+    "image_url": "https://img.fraganty.ai/perfume/49435.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "리멤버 미은 카다멈, 레몬, 베르가못, 차, 생강 노트가 중심이며 시트러스, 락토닉, 바닐라 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "카다멈",
+      "레몬",
+      "베르가못",
+      "차",
+      "생강",
+      "프랑지파니",
+      "우유",
+      "바닐라",
+      "우디 노츠",
+      "시더우드"
+    ],
+    "accords": [
+      "시트러스",
+      "락토닉",
+      "바닐라",
+      "웜 스파이시",
+      "프레쉬 스파이시",
+      "아로마틱",
+      "프레쉬",
+      "그린"
+    ],
+    "keywords": [
+      "편안한",
+      "친밀한",
+      "세련된",
+      "상쾌한",
+      "따뜻한",
+      "캐주얼한 외출",
+      "오후 티타임",
+      "아늑한 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.625,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "뉴 룩 1947",
+    "english_name": "new look 1947",
+    "normalized_name": "new look 1947",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/new-look-1947",
+    "image_url": "https://img.fraganty.ai/perfume/48382.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "뉴 룩 1947은 핑크 페퍼, 일랑일랑, 자스민, 가드니아, 투베로즈 노트가 중심이며 화이트 플로럴, 옐로우 플로럴, 앰버 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "핑크 페퍼",
+      "일랑일랑",
+      "자스민",
+      "가드니아",
+      "투베로즈",
+      "로즈",
+      "벤조인",
+      "바닐라"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "옐로우 플로럴",
+      "앰버",
+      "바닐라",
+      "스위트",
+      "투베로즈",
+      "로즈",
+      "웜 스파이시"
+    ],
+    "keywords": [
+      "여성스러운",
+      "호화로운",
+      "로맨틱한",
+      "자신감 있는",
+      "따뜻한",
+      "봄날 외출",
+      "우아한 저녁 행사",
+      "로맨틱한 데이트 밤"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.0,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "힙노틱 쁘아종 엑스트레 드 파퓸",
+    "english_name": "hypnotic poison extrait de parfum",
+    "normalized_name": "hypnotic poison extrait de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/hypnotic-poison-extrait-de-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/11402.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "힙노틱 쁘아종 엑스트레 드 파퓸은 자스민, 오렌지 블라썸, 로즈, 바닐라 노트가 중심이며 바닐라, 화이트 플로럴, 로즈 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자스민",
+      "오렌지 블라썸",
+      "로즈",
+      "바닐라"
+    ],
+    "accords": [
+      "바닐라",
+      "화이트 플로럴",
+      "로즈",
+      "스위트",
+      "파우더리",
+      "플로럴",
+      "시트러스",
+      "발삼"
+    ],
+    "keywords": [
+      "최면적인",
+      "우아한",
+      "감각적인",
+      "신비로운",
+      "사치스러운",
+      "겨울 밤 외출",
+      "로맨틱한 저녁식사",
+      "격식 있는 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.5,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.125,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "오 소바쥬 익스트림 (2010)",
+    "english_name": "eau sauvage extreme 2010",
+    "normalized_name": "eau sauvage extreme 2010",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eau-sauvage-extreme-2010",
+    "image_url": "https://img.fraganty.ai/perfume/72771.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "오 소바쥬 익스트림 (2010)은 베르가못, 레몬, 자몽, 엘레미, 라벤더 노트가 중심이며 아로마틱, 시트러스, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "레몬",
+      "자몽",
+      "엘레미",
+      "라벤더",
+      "바질",
+      "민트",
+      "자스민",
+      "오크모스",
+      "시더우드",
+      "베티버",
+      "패출리"
+    ],
+    "accords": [
+      "아로마틱",
+      "시트러스",
+      "프레쉬 스파이시",
+      "우디",
+      "그린",
+      "어시",
+      "라벤더",
+      "모시"
+    ],
+    "keywords": [
+      "자신감 넘치는",
+      "우아한",
+      "역동적인",
+      "상쾌한",
+      "남성적인",
+      "봄날 외출",
+      "여름 오후 모임",
+      "캐주얼 비즈니스 미팅"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.0,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 쟈도르 오 드 뚜왈렛 (2002)",
+    "english_name": "j adore eau de toilette 2002",
+    "normalized_name": "j adore eau de toilette 2002",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/j-adore-eau-de-toilette-2002",
+    "image_url": "https://img.fraganty.ai/perfume/5.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 쟈도르 오 드 뚜왈렛 (2002)은 자두, 네롤리, 만다린 오렌지, 베르가못, 레몬 노트가 중심이며 화이트 플로럴, 시트러스, 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자두",
+      "네롤리",
+      "만다린 오렌지",
+      "베르가못",
+      "레몬",
+      "너트멕",
+      "자스민",
+      "은방울꽃",
+      "바이올렛",
+      "난초",
+      "로즈",
+      "목련",
+      "머스크",
+      "바닐라"
+    ],
+    "accords": [
+      "화이트 플로럴",
+      "시트러스",
+      "플로럴",
+      "파우더리",
+      "프레쉬",
+      "프루티",
+      "스위트",
+      "머스키"
+    ],
+    "keywords": [
+      "빛나는",
+      "장난스러운",
+      "우아한",
+      "신선한",
+      "부드러운",
+      "봄날 외출",
+      "캐주얼 브런치",
+      "주간 행사"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.0,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 옴므 코롱",
+    "english_name": "dior homme cologne",
+    "normalized_name": "dior homme cologne",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-homme-cologne",
+    "image_url": "https://img.fraganty.ai/perfume/1770.jpg",
+    "price": {
+      "raw": "$135",
+      "amount": 135,
+      "currency": "USD"
+    },
+    "description": "디올 옴므 코롱은 만다린 오렌지, 네롤리, 베르가못, 라벤더, 카다멈 노트가 중심이며 시트러스, 아로마틱, 아이리스 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "만다린 오렌지",
+      "네롤리",
+      "베르가못",
+      "라벤더",
+      "카다멈",
+      "세이지",
+      "아이리스",
+      "베티버",
+      "카카오",
+      "레더",
+      "앰버",
+      "패출리"
+    ],
+    "accords": [
+      "시트러스",
+      "아로마틱",
+      "아이리스",
+      "우디",
+      "어시",
+      "웜 스파이시",
+      "파우더리",
+      "프레쉬 스파이시"
+    ],
+    "keywords": [
+      "상쾌한",
+      "무심한",
+      "세련된",
+      "향기로운",
+      "우아한",
+      "봄날 외출",
+      "캐주얼한 여름 모임",
+      "주간 사무실 착용"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.375,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 어딕트 2 오 프레쉬",
+    "english_name": "dior addict 2 eau fraiche",
+    "normalized_name": "dior addict 2 eau fraiche",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/dior-addict-2-eau-fraiche",
+    "image_url": "https://img.fraganty.ai/perfume/6687.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "디올 어딕트 2 오 프레쉬은 자몽, 레몬, 라즈베리, 레드 베리, 로즈 노트가 중심이며 시트러스, 프루티, 스위트 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "자몽",
+      "레몬",
+      "라즈베리",
+      "레드 베리",
+      "로즈",
+      "시더우드",
+      "머스크"
+    ],
+    "accords": [
+      "시트러스",
+      "프루티",
+      "스위트",
+      "로즈",
+      "아로마틱",
+      "우디",
+      "프레쉬",
+      "머스키"
+    ],
+    "keywords": [
+      "즐거운",
+      "상쾌한",
+      "장난기 있는",
+      "걱정 없는",
+      "가벼운 마음의",
+      "봄 소풍",
+      "여름 외출",
+      "캐주얼 브런치"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.125,
+      "프레시": 0.375,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "레더 오드",
+    "english_name": "leather oud",
+    "normalized_name": "leather oud",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/leather-oud",
+    "image_url": "https://img.fraganty.ai/perfume/25613.jpg",
+    "price": {
+      "raw": "$330",
+      "amount": 330,
+      "currency": "USD"
+    },
+    "description": "레더 오드은 레더, 베르가못, 침향(오드), 제라늄, 카네이션 노트가 중심이며 오드, 프레쉬 스파이시, 우디 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "레더",
+      "베르가못",
+      "침향(오드)",
+      "제라늄",
+      "카네이션",
+      "패출리",
+      "우디 노츠",
+      "앰버",
+      "베티버"
+    ],
+    "accords": [
+      "오드",
+      "프레쉬 스파이시",
+      "우디",
+      "레더",
+      "아로마틱",
+      "웜 스파이시",
+      "애니멀릭",
+      "플로럴"
+    ],
+    "keywords": [
+      "대담한",
+      "원초적인",
+      "세련된",
+      "복합적인",
+      "도발적인",
+      "겨울 밤 외출",
+      "격식 있는 행사",
+      "친밀한 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.25,
+      "오리엔탈": 0.375,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 파퓸",
+    "english_name": "miss dior parfum",
+    "normalized_name": "miss dior parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-parfum",
+    "image_url": "https://img.fraganty.ai/perfume/11400.jpg",
+    "price": {
+      "raw": "$180",
+      "amount": 180,
+      "currency": "USD"
+    },
+    "description": "미스 디올 파퓸은 갈바넘, 자스민, 패출리 노트가 중심이며 그린, 패출리, 화이트 플로럴 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "갈바넘",
+      "자스민",
+      "패출리"
+    ],
+    "accords": [
+      "그린",
+      "패출리",
+      "화이트 플로럴",
+      "발삼",
+      "우디",
+      "아로마틱",
+      "웜 스파이시",
+      "어시"
+    ],
+    "keywords": [
+      "우아한",
+      "대담한",
+      "세련된",
+      "흙내음 나는",
+      "자신감 있는",
+      "격식 있는 행사",
+      "봄 정원 파티",
+      "낮 시간대 모임"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.375,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "미스 디올 쉐리 오 드 쁘랭땅",
+    "english_name": "miss dior cherie eau de printemps",
+    "normalized_name": "miss dior cherie eau de printemps",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/miss-dior-cherie-eau-de-printemps",
+    "image_url": "https://img.fraganty.ai/perfume/2521.jpg",
+    "price": {
+      "raw": "$165",
+      "amount": 165,
+      "currency": "USD"
+    },
+    "description": "미스 디올 쉐리 오 드 쁘랭땅은 블러드 오렌지, 베르가못, 로즈, 자스민, 네롤리 노트가 중심이며 시트러스, 화이트 플로럴, 로즈 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "블러드 오렌지",
+      "베르가못",
+      "로즈",
+      "자스민",
+      "네롤리",
+      "패출리"
+    ],
+    "accords": [
+      "시트러스",
+      "화이트 플로럴",
+      "로즈",
+      "패출리",
+      "프레쉬 스파이시",
+      "플로럴",
+      "우디",
+      "웜 스파이시"
+    ],
+    "keywords": [
+      "즐거운",
+      "상쾌한",
+      "우아한",
+      "장난기 있는",
+      "로맨틱한",
+      "봄 소풍",
+      "주말 낮 결혼식",
+      "캐주얼 외출"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.375,
+      "우디": 0.25,
+      "오리엔탈": 0.125,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "fraganty",
+    "source_country": "FR",
+    "brand": "DIOR",
+    "korean_name": "디올 오 프레쉬",
+    "english_name": "eau fraiche",
+    "normalized_name": "eau fraiche",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://fraganty.ai/perfume/eau-fraiche",
+    "image_url": "https://img.fraganty.ai/perfume/12561.jpg",
+    "price": {
+      "raw": "$150",
+      "amount": 150,
+      "currency": "USD"
+    },
+    "description": "디올 오 프레쉬은 베르가못, 카다멈, 핑크 페퍼, 생강, 레몬 노트가 중심이며 시트러스, 아로마틱, 프레쉬 스파이시 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
+      "베르가못",
+      "카다멈",
+      "핑크 페퍼",
+      "생강",
+      "레몬",
+      "자몽",
+      "만다린 오렌지",
+      "라벤더",
+      "타라곤",
+      "세이지",
+      "주니퍼",
+      "패출리",
+      "팔리산더 로즈우드",
+      "베티버",
+      "오크모스",
+      "머스크",
+      "샌달우드",
+      "톤카 빈",
+      "앰버"
+    ],
+    "accords": [
+      "시트러스",
+      "아로마틱",
+      "프레쉬 스파이시",
+      "웜 스파이시",
+      "소프트 스파이시",
+      "라벤더",
+      "허벌",
+      "우디"
+    ],
+    "keywords": [
+      "상쾌한",
+      "세련된",
+      "반항적인",
+      "활력을 주는",
+      "허브향의",
+      "봄날 외출",
+      "여름 브런치",
+      "캐주얼한 사무실 복장"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "프랑스"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.125,
+      "우디": 0.125,
+      "오리엔탈": 0.25,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  }
+]

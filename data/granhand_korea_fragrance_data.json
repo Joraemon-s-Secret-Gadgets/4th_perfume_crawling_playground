@@ -1,0 +1,1416 @@
+[
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "아이노아 퍼퓸",
+    "english_name": "Ainoa",
+    "normalized_name": "ainoa",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=703&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/fa4278b9579a0b0f45e8f58e5d205f58.png",
+    "price": {
+      "raw": "55,000원",
+      "amount": 55000,
+      "currency": "KRW"
+    },
+    "description": "아이노아 퍼퓸은 제라니올, 리날룰, 리모넨 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티, 제라니올, 리날룰, 리모넨",
+    "notes": [
+      "제라니올",
+      "리날룰",
+      "리모넨"
+    ],
+    "accords": [
+      "시트러스",
+      "플로럴",
+      "머스키",
+      "우디"
+    ],
+    "keywords": [
+      "여름 소풍",
+      "살냄새",
+      "상쾌한",
+      "순수한",
+      "시원한",
+      "에너제틱한",
+      "가벼운",
+      "활기찬"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.25,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "누베 퍼퓸",
+    "english_name": "Nube",
+    "normalized_name": "nube",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=704&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/545fd12c4f0240639880dddecb45b42a.png",
+    "price": {
+      "raw": "55,000원",
+      "amount": 55000,
+      "currency": "KRW"
+    },
+    "description": "누베 퍼퓸은 벤질살리실레이트, 리날룰, 시트로넬올, 리모넨, 아이소메틸아이오논 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티, 벤질살리실레이트, 리날룰, 시트로넬올, 리모넨, 알파-아이소메틸아이오논",
+    "notes": [
+      "벤질살리실레이트",
+      "리날룰",
+      "시트로넬올",
+      "리모넨",
+      "아이소메틸아이오논"
+    ],
+    "accords": [
+      "플로럴",
+      "프루티",
+      "머스키",
+      "우디",
+      "파우더리"
+    ],
+    "keywords": [
+      "살냄새",
+      "맑은",
+      "순수한",
+      "감미로운",
+      "깨끗한",
+      "봄날의 산책",
+      "포근한",
+      "로맨틱한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.4,
+      "우디": 0.2,
+      "오리엔탈": 0.2,
+      "프레시": 0.0,
+      "구르망": 0.2
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "모들 시그니처 퍼퓸",
+    "english_name": "Modle",
+    "normalized_name": "modle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=698&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/9850763f295ef7591da9126472d24383.png",
+    "price": {
+      "raw": "110,000원",
+      "amount": 110000,
+      "currency": "KRW"
+    },
+    "description": "모들 시그니처 퍼퓸은 벤질벤조에이트, 벤질살리실레이트, 헥실신남알, 시트랄, 시트로넬올 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 정제수, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 시트로넬올, 쿠마린, 유제놀, 제라니올, 리모넨, 리날룰",
+    "notes": [
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "유제놀",
+      "제라니올",
+      "리모넨",
+      "리날룰"
+    ],
+    "accords": [
+      "시트러스",
+      "아로마틱",
+      "우디"
+    ],
+    "keywords": [
+      "산뜻한",
+      "가벼운",
+      "깨끗한",
+      "에너제틱한",
+      "활기찬",
+      "여름 소풍",
+      "데일리 오피스"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "시그니처 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.333,
+      "오리엔탈": 0.0,
+      "프레시": 0.667,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "무나키 퍼퓸",
+    "english_name": "Munaki",
+    "normalized_name": "munaki",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=702&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/5fc9b9580058699121dbfa5b8fbac388.png",
+    "price": {
+      "raw": "55,000원",
+      "amount": 55000,
+      "currency": "KRW"
+    },
+    "description": "무나키 퍼퓸은 벤질벤조에이트, 리모넨 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티, 벤질벤조에이트, 리모넨",
+    "notes": [
+      "벤질벤조에이트",
+      "리모넨"
+    ],
+    "accords": [
+      "우디",
+      "아로마틱",
+      "시트러스",
+      "그린"
+    ],
+    "keywords": [
+      "카리스마있는",
+      "묵직한",
+      "자연의",
+      "싱그러운",
+      "에너제틱한",
+      "대담한",
+      "세련된",
+      "활기찬"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.75,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "솝니 시그니처 퍼퓸",
+    "english_name": "Sopni",
+    "normalized_name": "sopni",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=695&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/c71b8fac7bed0c3ccba87b81fef73b30.png",
+    "price": {
+      "raw": "110,000원",
+      "amount": 110000,
+      "currency": "KRW"
+    },
+    "description": "솝니 시그니처 퍼퓸은 벤질벤조에이트, 벤질살리실레이트, 헥실신남알, 시트랄, 시트로넬올 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 정제수, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 시트로넬올, 쿠마린, 유제놀, 제라니올, 리모넨, 리날룰",
+    "notes": [
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "유제놀",
+      "제라니올",
+      "리모넨",
+      "리날룰"
+    ],
+    "accords": [
+      "우디",
+      "앰버",
+      "머스키",
+      "웜 스파이시"
+    ],
+    "keywords": [
+      "묵직한",
+      "온화한",
+      "차분한 회의",
+      "순수한",
+      "격식있는 자리",
+      "자극적인",
+      "세련된",
+      "독특한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "시그니처 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.75,
+      "프레시": 0.0,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "놀 퍼퓸",
+    "english_name": "Noll",
+    "normalized_name": "noll",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=705&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/85a67523530d1cf06be06e75414354ae.png",
+    "price": {
+      "raw": "55,000원",
+      "amount": 55000,
+      "currency": "KRW"
+    },
+    "description": "놀 퍼퓸은 제라니올, 리날룰, 리모넨 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티, 제라니올, 리날룰, 리모넨",
+    "notes": [
+      "제라니올",
+      "리날룰",
+      "리모넨"
+    ],
+    "accords": [
+      "시트러스",
+      "아로마틱",
+      "그린",
+      "머스키"
+    ],
+    "keywords": [
+      "에너제틱한",
+      "상쾌한",
+      "산뜻한",
+      "싱그러운",
+      "운동 후 리프레시",
+      "자연의",
+      "여름 소풍",
+      "살냄새"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.75,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "코코케이 퍼퓸",
+    "english_name": "Cococay",
+    "normalized_name": "cococay",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=701&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/b43271e914d30084e281380119b192b9.png",
+    "price": {
+      "raw": "55,000원",
+      "amount": 55000,
+      "currency": "KRW"
+    },
+    "description": "코코케이 퍼퓸 향수입니다.",
+    "ingredients_raw": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티",
+    "notes": [
+      "망고",
+      "넥타린",
+      "페어",
+      "라즈베리",
+      "수련",
+      "연꽃",
+      "코코넛",
+      "머스크",
+      "샌달우드"
+    ],
+    "accords": [
+      "프루티",
+      "스위트",
+      "트로피컬",
+      "머스키"
+    ],
+    "keywords": [
+      "풍부한",
+      "주말 디저트 타임",
+      "포근한",
+      "순수한",
+      "밝은",
+      "매력적인",
+      "겨울 캐주얼",
+      "살냄새"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.0,
+      "구르망": 0.75
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "이른 퍼퓸",
+    "english_name": "Ireun",
+    "normalized_name": "ireun",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=700&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202603/2544d0dfcbccd6a43af3c17c072e954d.jpg",
+    "price": {
+      "raw": "55,000원",
+      "amount": 55000,
+      "currency": "KRW"
+    },
+    "description": "이른 퍼퓸은 시트랄, 리모넨, 리날룰 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 플로필렌글라이콜, 정제수, 비에이치티, 시트랄, 리모넨, 리날룰",
+    "notes": [
+      "시트랄",
+      "리모넨",
+      "리날룰"
+    ],
+    "accords": [
+      "시트러스",
+      "아로마틱",
+      "우디"
+    ],
+    "keywords": [
+      "청량한",
+      "깨끗한",
+      "여름 소풍",
+      "에너제틱한",
+      "상쾌한",
+      "활기찬",
+      "운동 후 리프레시"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.333,
+      "오리엔탈": 0.0,
+      "프레시": 0.667,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "이플 퍼퓸",
+    "english_name": "Epeul",
+    "normalized_name": "epeul",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=699&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/9727309f86927a8d50d81cd8e7da0528.png",
+    "price": {
+      "raw": "55,000원",
+      "amount": 55000,
+      "currency": "KRW"
+    },
+    "description": "이플 퍼퓸 향수입니다.",
+    "ingredients_raw": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티",
+    "notes": [
+      "레몬",
+      "마린",
+      "매그놀리아",
+      "자스민",
+      "뮤게",
+      "시더우드",
+      "머스크",
+      "샌달우드"
+    ],
+    "accords": [
+      "플로럴",
+      "시트러스",
+      "마린",
+      "머스키"
+    ],
+    "keywords": [
+      "봄날의 산책",
+      "부드러운",
+      "활기찬",
+      "로맨틱한",
+      "섬세한",
+      "에너제틱한",
+      "순수한",
+      "살냄새"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "바이마르 시그니처 퍼퓸",
+    "english_name": "Weimar",
+    "normalized_name": "weimar",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=697&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/51cf5e7102df2be64734534c8eae3ee3.png",
+    "price": {
+      "raw": "110,000원",
+      "amount": 110000,
+      "currency": "KRW"
+    },
+    "description": "바이마르 시그니처 퍼퓸은 벤질벤조에이트, 벤질살리실레이트, 헥실신남알, 시트랄, 쿠마린 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 정제수, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 쿠마린, 유제놀, 리모넨, 리날룰",
+    "notes": [
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "쿠마린",
+      "유제놀",
+      "리모넨",
+      "리날룰"
+    ],
+    "accords": [
+      "마린",
+      "아로마틱",
+      "플로럴",
+      "우디"
+    ],
+    "keywords": [
+      "데일리 오피스",
+      "가벼운",
+      "바닷가",
+      "여름 소풍",
+      "자유로운",
+      "상쾌한",
+      "청량한",
+      "산뜻한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "시그니처 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.25,
+      "오리엔탈": 0.0,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "캐스크 시그니처 퍼퓸",
+    "english_name": "Cask",
+    "normalized_name": "cask",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=696&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/b5832fd6beb6a1db3f284931fa692992.png",
+    "price": {
+      "raw": "110,000원",
+      "amount": 110000,
+      "currency": "KRW"
+    },
+    "description": "캐스크 시그니처 퍼퓸은 벤질알코올, 벤질벤조에이트, 벤질살리실레이트, 헥실신남알, 시트랄 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 정제수, 벤질알코올, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 시트로넬올, 쿠마린, 유제놀, 제라니올, 리모넨, 리날룰",
+    "notes": [
+      "벤질알코올",
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "유제놀",
+      "제라니올",
+      "리모넨",
+      "리날룰"
+    ],
+    "accords": [
+      "우디",
+      "아로마틱",
+      "바닐라",
+      "발삼"
+    ],
+    "keywords": [
+      "카리스마있는",
+      "묵직한",
+      "달콤한",
+      "포근한",
+      "차분한 회의",
+      "온화한",
+      "가을 외출",
+      "대담한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "시그니처 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "마르네 시그니처 퍼퓸",
+    "english_name": "Marne",
+    "normalized_name": "marne",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=694&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/721bfe3f714388cda3ca6c21071d2ef3.png",
+    "price": {
+      "raw": "110,000원",
+      "amount": 110000,
+      "currency": "KRW"
+    },
+    "description": "마르네 시그니처 퍼퓸은 벤질벤조에이트, 벤질살리실레이트, 헥실신남알, 시트랄, 시트로넬올 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 정제수, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 시트로넬올, 쿠마린, 유제놀, 제라니올, 리모넨, 리날룰",
+    "notes": [
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "유제놀",
+      "제라니올",
+      "리모넨",
+      "리날룰"
+    ],
+    "accords": [
+      "우디",
+      "아로마틱",
+      "시트러스",
+      "머스키"
+    ],
+    "keywords": [
+      "순수한",
+      "활기찬",
+      "살냄새",
+      "온화한",
+      "가을 외출",
+      "차분한 회의",
+      "전통적인",
+      "묵직한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "시그니처 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.25,
+      "프레시": 0.5,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "루시엔 카 멀티 퍼퓸",
+    "english_name": "Lucien Carr",
+    "normalized_name": "lucien carr",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=712&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/c2c2b2d126cb0ab322d99f9892da99b6.jpg",
+    "price": {
+      "raw": "35,000원",
+      "amount": 35000,
+      "currency": "KRW"
+    },
+    "description": "루시엔 카 멀티 퍼퓸은 리날룰, 리모넨 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 리모넨",
+    "notes": [
+      "리날룰",
+      "리모넨"
+    ],
+    "accords": [
+      "우디",
+      "아로마틱",
+      "바닐라",
+      "앰버"
+    ],
+    "keywords": [
+      "차분한 회의",
+      "카리스마있는",
+      "안정감 있는",
+      "대담한",
+      "포근한",
+      "격식있는 자리",
+      "전통적인",
+      "달콤한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.25,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "규장 멀티 퍼퓸",
+    "english_name": "Kyujang",
+    "normalized_name": "kyujang",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=709&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/1a099903f217012c26088a4bef149ce4.jpg",
+    "price": {
+      "raw": "35,000원",
+      "amount": 35000,
+      "currency": "KRW"
+    },
+    "description": "규장 멀티 퍼퓸은 리날룰, 시트랄, 시트로넬올, 유제놀, 제라니올 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 시트랄, 시트로넬올, 유제놀, 제라니올, 쿠마린, 헥실신남알",
+    "notes": [
+      "리날룰",
+      "시트랄",
+      "시트로넬올",
+      "유제놀",
+      "제라니올",
+      "쿠마린",
+      "헥실신남알"
+    ],
+    "accords": [
+      "우디",
+      "아로마틱",
+      "그린"
+    ],
+    "keywords": [
+      "묵직한",
+      "전통적인",
+      "차분한 회의",
+      "자연의",
+      "세련된",
+      "격식있는 자리",
+      "싱그러운",
+      "대담한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.333,
+      "오리엔탈": 0.0,
+      "프레시": 0.667,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "베게너 멀티 퍼퓸",
+    "english_name": "Wegener",
+    "normalized_name": "wegener",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=708&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/acfa4eac3297f0aa2964b49290518d6c.jpg",
+    "price": {
+      "raw": "35,000원",
+      "amount": 35000,
+      "currency": "KRW"
+    },
+    "description": "베게너 멀티 퍼퓸은 리날룰, 리모넨, 부틸페닐메틸프로피오날, 제라니올 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 리모넨, 부틸페닐메틸프로피오날, 제라니올",
+    "notes": [
+      "리날룰",
+      "리모넨",
+      "부틸페닐메틸프로피오날",
+      "제라니올"
+    ],
+    "accords": [
+      "스위트",
+      "바닐라",
+      "프루티",
+      "너티"
+    ],
+    "keywords": [
+      "포근한",
+      "달콤한",
+      "친근한",
+      "포근한 집 데이트",
+      "주말 디저트 타임",
+      "밝은"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.0,
+      "오리엔탈": 0.0,
+      "프레시": 0.0,
+      "구르망": 1.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "마린 오키드 멀티 퍼퓸",
+    "english_name": "Marine Orchid",
+    "normalized_name": "marine orchid",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=713&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/64984e6f840eb8a462ced0d4342cdc9d.jpg",
+    "price": {
+      "raw": "35,000원",
+      "amount": 35000,
+      "currency": "KRW"
+    },
+    "description": "마린 오키드 멀티 퍼퓸은 리날룰, 리모넨, 벤질벤조에이트, 벤질살리실레이트, 아이소메틸아이오논 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌글라이콜, 정제수, 리날룰, 리모넨, 벤질벤조에이트, 벤질살리실레이트, 알파-아이소메틸아이오논, 아이소유제놀",
+    "notes": [
+      "리날룰",
+      "리모넨",
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "아이소메틸아이오논",
+      "유제놀"
+    ],
+    "accords": [
+      "마린",
+      "플로럴",
+      "시트러스",
+      "스위트"
+    ],
+    "keywords": [
+      "청량한",
+      "자유로운",
+      "에너제틱한",
+      "시원한",
+      "깨끗한",
+      "운동 후 리프레시",
+      "데일리 오피스",
+      "바닷가"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.0,
+      "오리엔탈": 0.0,
+      "프레시": 0.5,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "수지 살몬 멀티 퍼퓸",
+    "english_name": "Susie Salmon",
+    "normalized_name": "susie salmon",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=714&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/d1500f411f5be071be1d323e0f05457a.jpg",
+    "price": {
+      "raw": "35,000원",
+      "amount": 35000,
+      "currency": "KRW"
+    },
+    "description": "수지 살몬 멀티 퍼퓸은 리모넨, 부틸페닐메틸프로피오날, 시트랄, 아이소메틸아이오논, 하이드록시시트로넬알 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌글라이콜, 정제수, 리모넨, 부틸페닐메틸프로피오날, 시트랄, 알파-아이소메틸이오논, 하이드록시시트로넬알, 헥실신남알",
+    "notes": [
+      "리모넨",
+      "부틸페닐메틸프로피오날",
+      "시트랄",
+      "아이소메틸아이오논",
+      "하이드록시시트로넬알",
+      "헥실신남알"
+    ],
+    "accords": [
+      "프루티",
+      "플로럴",
+      "머스키",
+      "시트러스",
+      "스위트"
+    ],
+    "keywords": [
+      "주말 디저트 타임",
+      "순수한",
+      "살냄새",
+      "활기찬",
+      "에너제틱한",
+      "달콤한",
+      "친근한",
+      "풍부한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.2,
+      "우디": 0.0,
+      "오리엔탈": 0.2,
+      "프레시": 0.2,
+      "구르망": 0.4
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "비올레뜨 멀티 퍼퓸",
+    "english_name": "Violette",
+    "normalized_name": "violette",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=706&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/85bd94a1b05bb5a48a2ac193c469eaa9.jpg",
+    "price": {
+      "raw": "35,000원",
+      "amount": 35000,
+      "currency": "KRW"
+    },
+    "description": "비올레뜨 멀티 퍼퓸은 리날룰, 부틸페닐메틸프로피오날, 시트로넬올, 하이드록시시트로넬알, 헥실신남알 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 부틸페닐메틸프로피오날, 시트로넬올, 하이드록시시트로넬알, 헥실신남알",
+    "notes": [
+      "리날룰",
+      "부틸페닐메틸프로피오날",
+      "시트로넬올",
+      "하이드록시시트로넬알",
+      "헥실신남알"
+    ],
+    "accords": [
+      "플로럴",
+      "프루티",
+      "머스키"
+    ],
+    "keywords": [
+      "감미로운",
+      "데이트 밤",
+      "순수한",
+      "우아한",
+      "결혼식 하객",
+      "섬세한",
+      "살냄새",
+      "부드러운"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.333,
+      "우디": 0.0,
+      "오리엔탈": 0.333,
+      "프레시": 0.0,
+      "구르망": 0.333
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "루시 다이아몬드 멀티 퍼퓸",
+    "english_name": "Lucy Diamond",
+    "normalized_name": "lucy diamond",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=802&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/ce794300c1dc727b20fe62d1c4504113.jpg",
+    "price": {
+      "raw": "45,000원",
+      "amount": 45000,
+      "currency": "KRW"
+    },
+    "description": "루시 다이아몬드 멀티 퍼퓸은 리날룰, 벤질벤조에이트, 시트로넬올, 신남알, 유제놀 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 메틸2-옥티노에이트, 벤질벤조에이트, 부틸메틸프로피오날, 시트로넬올, 신나밀알코올, 아밀신남알, 유제놀, 아이소유제놀, 제라니올, 쿠마린, 하이드록시시트로넬알, 헥실신남알",
+    "notes": [
+      "리날룰",
+      "벤질벤조에이트",
+      "시트로넬올",
+      "신남알",
+      "유제놀",
+      "제라니올",
+      "쿠마린",
+      "하이드록시시트로넬알",
+      "헥실신남알"
+    ],
+    "accords": [
+      "프루티",
+      "플로럴",
+      "머스키",
+      "바닐라"
+    ],
+    "keywords": [
+      "포근한",
+      "겨울 캐주얼",
+      "달콤한",
+      "주말 디저트 타임",
+      "살냄새",
+      "부드러운",
+      "밝은",
+      "친근한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "구르망",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.0,
+      "구르망": 0.5
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "트와 베르 멀티 퍼퓸",
+    "english_name": "Toit Vert",
+    "normalized_name": "toit vert",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=711&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/fa3e8fe638fdc37c0a01dc17aaa3b2bd.jpg",
+    "price": {
+      "raw": "35,000원",
+      "amount": 35000,
+      "currency": "KRW"
+    },
+    "description": "트와 베르 멀티 퍼퓸은 리날룰, 벤질벤조에이트, 부틸페닐메틸프로피오날, 아이소메틸아이오논, 제라니올 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 벤질벤조에이트, 부틸페닐메틸프로피오날, 알파-아이소메틸아이오논, 제라니올, 하이드록시시트로넬알",
+    "notes": [
+      "리날룰",
+      "벤질벤조에이트",
+      "부틸페닐메틸프로피오날",
+      "아이소메틸아이오논",
+      "제라니올",
+      "하이드록시시트로넬알"
+    ],
+    "accords": [
+      "그린",
+      "플로럴",
+      "우디"
+    ],
+    "keywords": [
+      "싱그러운",
+      "데일리 오피스",
+      "시원한",
+      "자연의",
+      "활기찬",
+      "상쾌한",
+      "운동 후 리프레시",
+      "깨끗한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.333,
+      "우디": 0.333,
+      "오리엔탈": 0.0,
+      "프레시": 0.333,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "수아 시그니처 퍼퓸",
+    "english_name": "Soie",
+    "normalized_name": "soie",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=669&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/b24d67b7e36f0e708d4255f912fcc79c.png",
+    "price": {
+      "raw": "110,000원",
+      "amount": 110000,
+      "currency": "KRW"
+    },
+    "description": "수아 시그니처 퍼퓸은 아이소메틸아이오논, 시트랄, 시트로넬올, 쿠마린, 파네솔 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 정제수, 알파-아이소메틸아이오논, 시트랄, 시트로넬올, 쿠마린, 파네솔, 제라니올, 헥실신남알, 하이드록시시트로넬알, 리모넨, 리날룰",
+    "notes": [
+      "아이소메틸아이오논",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "파네솔",
+      "제라니올",
+      "헥실신남알",
+      "하이드록시시트로넬알",
+      "리모넨",
+      "리날룰"
+    ],
+    "accords": [
+      "플로럴",
+      "어시",
+      "우디",
+      "프레쉬"
+    ],
+    "keywords": [
+      "로맨틱한",
+      "데이트 밤",
+      "섬세한",
+      "맑은",
+      "우아한",
+      "봄날의 산책"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "시그니처 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.5,
+      "오리엔탈": 0.0,
+      "프레시": 0.25,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "릴리 오웬 멀티 퍼퓸",
+    "english_name": "Lily Owen",
+    "normalized_name": "lily owen",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=710&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/3591e77f44c1e9f56cc1a9b2a20e1685.jpg",
+    "price": {
+      "raw": "35,000원",
+      "amount": 35000,
+      "currency": "KRW"
+    },
+    "description": "릴리 오웬 멀티 퍼퓸은 리날룰, 하이드록시시트로넬알 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 하이드록시시트로넬알",
+    "notes": [
+      "리날룰",
+      "하이드록시시트로넬알"
+    ],
+    "accords": [
+      "플로럴",
+      "마린",
+      "프루티",
+      "머스키"
+    ],
+    "keywords": [
+      "자유로운",
+      "살냄새",
+      "데이트 밤",
+      "감미로운",
+      "바닷가",
+      "순수한",
+      "섬세한",
+      "부드러운"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "플로럴",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "럼버잭 멀티 퍼퓸",
+    "english_name": "Lumberjack",
+    "normalized_name": "lumberjack",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=804&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/f72905089e2df4488b9623ef51f39d14.jpg",
+    "price": {
+      "raw": "45,000원",
+      "amount": 45000,
+      "currency": "KRW"
+    },
+    "description": "럼버잭 멀티 퍼퓸은 리날룰, 벤질살리실레이트, 시트로넬올, 쿠마린, 하이드록시시트로넬알 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 벤질살리실레이트, 시트로넬올, 쿠마린, 하이드록시시트로넬알",
+    "notes": [
+      "리날룰",
+      "벤질살리실레이트",
+      "시트로넬올",
+      "쿠마린",
+      "하이드록시시트로넬알"
+    ],
+    "accords": [
+      "우디",
+      "스모키",
+      "아로마틱"
+    ],
+    "keywords": [
+      "격식있는 자리",
+      "카리스마있는",
+      "가을 외출",
+      "묵직한",
+      "안정감 있는",
+      "그윽한",
+      "고독한",
+      "대담한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "우디",
+    "aura_profile": {
+      "플로럴": 0.0,
+      "우디": 0.667,
+      "오리엔탈": 0.0,
+      "프레시": 0.333,
+      "구르망": 0.0
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "롤랑 멀티 퍼퓸",
+    "english_name": "Roland",
+    "normalized_name": "roland",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=707&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/e2eb4f6f88ade6998076366b725be680.jpg",
+    "price": {
+      "raw": "35,000원",
+      "amount": 35000,
+      "currency": "KRW"
+    },
+    "description": "롤랑 멀티 퍼퓸은 리날룰 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰",
+    "notes": [
+      "리날룰"
+    ],
+    "accords": [
+      "시트러스",
+      "프루티",
+      "플로럴",
+      "머스키"
+    ],
+    "keywords": [
+      "시원한",
+      "산뜻한",
+      "운동 후 리프레시",
+      "여름 소풍",
+      "에너제틱한",
+      "순수한",
+      "깨끗한",
+      "활기찬"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "GRANHAND",
+    "korean_name": "비비안 워드 멀티 퍼퓸",
+    "english_name": "Vivian Ward",
+    "normalized_name": "vivian ward",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
+    "product_url": "https://granhand.com/product/detail.html?product_no=803&cate_no=181&display_group=1",
+    "image_url": "https://granhand.com/web/product/big/202510/e9184fe3b6f2c0355eeba4ebeee018fa.jpg",
+    "price": {
+      "raw": "45,000원",
+      "amount": 45000,
+      "currency": "KRW"
+    },
+    "description": "비비안 워드 멀티 퍼퓸은 리날룰, 벤질벤조에이트, 부틸페닐메틸프로피오날, 시트랄 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 벤질벤조에이트, 부틸페닐메틸프로피오날, 시트랄",
+    "notes": [
+      "리날룰",
+      "벤질벤조에이트",
+      "부틸페닐메틸프로피오날",
+      "시트랄"
+    ],
+    "accords": [
+      "시트러스",
+      "프루티",
+      "플로럴",
+      "머스키"
+    ],
+    "keywords": [
+      "활기찬",
+      "살냄새",
+      "상쾌한",
+      "산뜻한",
+      "운동 후 리프레시",
+      "가벼운",
+      "순수한",
+      "에너제틱한"
+    ],
+    "meta": {
+      "release_year": null,
+      "original_product_type": "멀티 퍼퓸",
+      "original_country": "KR"
+    },
+    "volume": "100ml",
+    "family": "프레시",
+    "aura_profile": {
+      "플로럴": 0.25,
+      "우디": 0.0,
+      "오리엔탈": 0.25,
+      "프레시": 0.25,
+      "구르망": 0.25
+    }
+  }
+]
